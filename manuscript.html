@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>A Digital Manuscript in the Classroom</title>
+	<style>
+		body {
+			display: flex;
+			/* flex-direction: column; */
+            justify-content: center;
+            border: dotted blue;
+			font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+			/* height: 100vh; */
+			/* margin: 0; */
+            
+		}
+
+        main {
+            justify-self: center;
+            border: solid green;
+            width: 1000px;
+        }
+        section {
+            border: dashed pink;
+        }
+
+		.title {
+			background: #333;
+			color: #fff;
+			font-size: 1.25rem;
+			font-weight: normal;
+			margin: 0;
+		}
+
+		@media (max-width: 700px) {
+			.title {
+				font-size: 1rem;
+			}
+		}
+
+		.title-link {
+			display: table-cell;
+		}
+
+		.title-logo {
+			display: block;
+			padding: .5rem
+		}
+
+		.title-text {
+			display: table-cell;
+			padding: 0 .25rem;
+			vertical-align: middle;
+		}
+
+		#viewer {
+			/* flex: 1; */
+			position: relative;
+            border: solid black;
+            height: 500px;
+		}
+        nav {
+            display: flex;
+            justify-content: space-around;
+        }
+
+        #prev {
+            /* align-content: start; */
+            font-size: 3em;
+            flex: 1;
+            width: 100px;
+        }
+
+        #next {
+            /* text-align: end; */
+            font-size: 3em;
+            flex: 1;
+            width: 100px;
+        }
+	</style>
+    <link rel="stylesheet" type="text/css" href="mirador/css/mirador-combined.css">
+    <script src="mirador/mirador.js"></script>
+</head>
+<body>
+    <main>
+	<h1 class="title">
+		
+		<span class="title-text">
+			A Manuscript in the Classroom
+		</span>
+	</h1>
+    <nav>
+        <div id="prev"><a href="" rel="prev" title="Previous manuscript">☜</a></div>
+        <div id="next"><a href="" rel="next" title="Next manuscript">☞</a></div>
+    </nav>
+    <section id="sect-viewer">
+        <div id="viewer">De viewer</div>
+        <div id="ms-identification">Shelfmark: MS 123, Leiden University Libraries</div>
+        <div id="description">Short description of the manuscript in the context of the DigManClass
+            <p>Rym-minnende Heer Nu ick my verstouwt hebbe dit teghenwoordigh Tooneel-spel
+                door de edele Druck-pers te openbaeren en aen U.E. op te offeren (waer in de
+                roemsuchtighe Liefde met overtollighe uyt-druckingen verbeldt wordt inden
+                Ridder Alphonsus Grave van Barcelona (die sich op het gheval verlaetende,
+                gheen ghevaer en vreesde) soo is mijnen uystersten wensch dat U.E. niet en
+                heeft de minste twijfelsinnicheydt dat ick dit voorstel mocht hebben voltrocken
+                ten opsicht van meer weldaeden (als ick alreede van U.E. goetjonsticheyt genoten
+                hebbe) te ontfanghen, want t'selve sou strecken tot een onghemeyne ondackbaerheydt
+                ghemerckt de naeste trap tot een oprechte danckbaerheydt, is weldaeden te erkennen:
+                en hebbe oversulckx door het stilswijghen U.E. niet willen brenghen inden Labyrinth
+                van mistrouwen, maer in teghendeel door dese oodtmoedighe toe-eygheninghe van mijn
+                Herstelde Onnooselheydt alle teeckenen van danckbaerheydt te thoonen, om d'esstentiele
+                oft wenstlijcke hinder-paelen van quaet achterdencken te doen verdwijnen
+                
+                Gheen grooter monster der Natuer, omvoor te schroomen Als de ondanckbaerheyt, die
+                Sathan self behaet: Uyt de ondanckbaerheyt is noyt iet goedts ghecomen Om dat den
+                wortel is van alderhooghste quaet.
+                
+                Heb ick my hier oft daer misgrepen bidde t'selve te legghen op de schouders.</p></div>
+    </section>
+    <section id="questions">
+        <header><h1>Questions</h1></header>
+        <ol>
+            <li>Een goede vraag</li>
+            <li>Een betere vraag</li>
+            <li>Een moeilijke vraag</li>
+        </ol>
+    </section>
+    <section id="related">
+        <header><h1>Related manuscripts</h1></header>
+    </section>
+    <script type="text/javascript">
+        $(function() {
+            Mirador({
+            id: "viewer",
+            buildPath: "mirador/",
+            data: [{manifestUri: "https://lab.library.universiteitleiden.nl/transcription/iiif/110/manifest", location: "Leiden University Library"}],
+            mainMenuSettings: {
+                show: false
+            },
+            windowObjects: [{
+                loadedManifest: "https://lab.library.universiteitleiden.nl/transcription/iiif/110/manifest",
+                displayLayout: false,
+                bottomPanel: false,
+                bottomPanelAvailable: false,
+                bottomPanelVisible: false,
+                sidePanel: false
+            }]
+            });
+        });
+    </script>
+</main>
+</body>
+</html>
