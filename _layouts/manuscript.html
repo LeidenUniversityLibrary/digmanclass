@@ -1,0 +1,49 @@
+---
+layout: single-ms
+---
+<nav>
+    <div id="prev"><a href="" rel="prev" title="Previous manuscript">☜</a></div>
+    <div id="next"><a href="" rel="next" title="Next manuscript">☞</a></div>
+</nav>
+<section id="sect-viewer">
+    <div id="viewer">De viewer</div>
+    <div id="ms-identification"><strong>{{ page.shelfmark }}</strong> ({{page.origin}}): {{page.genre}}, {{ page.material }}, {{ page.pages }}, {{ page.dimensions }}, {{ page.columns }}, {{ page.lines }}.</div>
+    <div id="description">{{ content }}</div>
+</section>
+{% if page.questions %}
+<section id="questions">
+    <header><h1>Questions</h1></header>
+    <ol>
+        {% for q in page.questions %}<li>{{ q }}</li>{% endfor %}
+    </ol>
+</section>
+{% endif %}
+<section id="related">
+    <header><h1>Related manuscripts</h1></header>
+</section>
+<section id="bibliography">
+    <header><h1>Literature</h1></header>
+    <ul>
+    {% for lit in page.literature %}<li>{{ lit | markdownify }}</li>{% endfor %}
+    </ul>
+</section>
+<script type="text/javascript">
+    $(function() {
+        Mirador({
+        id: "viewer",
+        buildPath: "mirador/",
+        data: [{manifestUri: "{{ page.manifest }}", location: "Leiden University Library"}],
+        mainMenuSettings: {
+            show: false
+        },
+        windowObjects: [{
+            loadedManifest: "{{ page.manifest }}",
+            displayLayout: false,
+            bottomPanel: false,
+            bottomPanelAvailable: false,
+            bottomPanelVisible: false,
+            sidePanel: false
+        }]
+        });
+    });
+</script>

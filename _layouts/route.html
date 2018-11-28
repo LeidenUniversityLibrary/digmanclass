@@ -1,0 +1,15 @@
+---
+layout: archive
+---
+<h1 class="title">{{ page.title }}</h1>
+<section id="introduction">
+{{ content }}
+</section>
+
+{{ page.identifier }}
+<ol>
+    {% for ms in site.manuscripts %}
+    {% if ms.route == page.identifier %}<li><a href="{{ ms.url | relative_url }}">{{ms.shelfmark}}: {{ ms.title }}</a></li>
+      {% endif %}{% endfor %}
+</ol>
+

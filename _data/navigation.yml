@@ -1,0 +1,42 @@
+main:
+  - title: About
+    url: /about/
+
+dmc:
+  - title: "Quick links"
+    children:
+      - title: "Homepage"
+        url: /
+      - title: "About"
+        url: /about/
+
+  - title: "Routes"
+    children:
+      - title: Dutch
+        url: /
+      - title: Classics
+        url: /
+
+      - title: History
+        url: /
+
+      - title: Books and Digital Media Studies
+        url: /
+
+      - title: Religion and Devotion
+        url: /
+
+      - title: Intellectual Culture
+        url: /
+
+      - title: Liberal Arts and Education
+        url: /
+
+      - title: DIY & Manuals
+        url: /
+
+      - title: Law
+        url: /
+
+      - title: Incunables
+        url: /

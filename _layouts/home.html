@@ -1,0 +1,12 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+<ul>
+{% for route in site.routes %}
+<li><a href="{{ route.url | relative_url }}">{{ route.title }}</a></li>
+
+{% endfor %}
+</ul>
