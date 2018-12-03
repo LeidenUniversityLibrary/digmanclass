@@ -9,6 +9,10 @@ dmc:
         url: /
       - title: "About"
         url: /about/
+      - title: "Glossary / Quill"
+        url: /glossary/
+      - title: Colophon
+        url: /colophon/
 
   - title: "Routes"
     children:
@@ -35,9 +39,9 @@ dmc:
 
   - title: "Indices"
     children:
-      - title: All manuscripts
+      - title: Overview of manuscripts
         url: /manuscripts/
-      - title: All literature
+      - title: Literature
         url: /literature/
       - title: All tags
         url: /tags/
