@@ -13,30 +13,31 @@ dmc:
   - title: "Routes"
     children:
       - title: Dutch
-        url: /
+        url: /routes/dutch/
       - title: Classics
-        url: /
-
+        url: /routes/classics/
       - title: History
-        url: /
-
+        url: /routes/history/
       - title: Books and Digital Media Studies
-        url: /
-
+        url: /routes/bdms/
       - title: Religion and Devotion
-        url: /
-
+        url: /routes/religion-devotion/
       - title: Intellectual Culture
-        url: /
-
+        url: /routes/intellectual-culture/
       - title: Liberal Arts and Education
-        url: /
-
+        url: /routes/liberal-arts-education/
       - title: DIY & Manuals
-        url: /
-
+        url: /routes/diy-manuals/
       - title: Law
-        url: /
-
+        url: /routes/law/
       - title: Incunables
-        url: /
+        url: /routes/incunables/
+
+  - title: "Indices"
+    children:
+      - title: All manuscripts
+        url: /manuscripts/
+      - title: All literature
+        url: /literature/
+      - title: All tags
+        url: /tags/
