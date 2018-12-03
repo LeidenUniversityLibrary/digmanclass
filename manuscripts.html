@@ -1,0 +1,17 @@
+---
+layout: archive
+permalink: /manuscripts/
+sidebar:
+    nav: dmc
+---
+
+<section id="introduction">
+All manuscripts in the collection
+</section>
+
+<ol>
+    {% for ms in site.manuscripts %}
+    <li><a href="{{ ms.url | relative_url }}">{{ms.shelfmark}}: {{ ms.title }}</a></li>
+    {% endfor %}
+</ol>
+
