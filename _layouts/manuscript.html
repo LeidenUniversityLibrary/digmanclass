@@ -9,6 +9,7 @@ layout: single-ms
     <div id="viewer">De viewer</div>
     <div id="ms-identification"><strong>{{ page.shelfmark }}</strong> ({{page.origin}}): {{page.genre}}, {{ page.material }}, {{ page.pages }}, {{ page.dimensions }}, {{ page.columns }}, {{ page.lines }}.</div>
     <div id="description">{{ content }}</div>
+    <p><a href="#bibliography">Jump to references</a></p>
 </section>
 {% if page.questions %}
 <section id="questions">
@@ -31,7 +32,7 @@ layout: single-ms
     $(function() {
         Mirador({
         id: "viewer",
-        buildPath: "mirador/",
+        buildPath: "/mirador/2.6.0/",
         data: [{manifestUri: "{{ page.manifest }}", location: "Leiden University Library"}],
         mainMenuSettings: {
             show: false
