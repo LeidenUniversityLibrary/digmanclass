@@ -5,4 +5,4 @@ layout: route
 manuscripts: []
 ---
 
-Some intro about Dutch
+Some intro about Liberal Arts and Education

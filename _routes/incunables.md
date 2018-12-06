@@ -1,6 +1,8 @@
 ---
 title: Incunables
+identifier: incunables
+layout: route
 manuscripts: []
 ---
 
-Some intro about Dutch
+Some intro about Incunables
