@@ -24,9 +24,7 @@ layout: single-ms
 </section>
 <section id="bibliography">
     <header><h1>Literature</h1></header>
-    <ul>
-    {% for lit in page.literature %}<li>{{ lit | markdownify }}</li>{% endfor %}
-    </ul>
+    {% bibliography --cited %}
 </section>
 <script type="text/javascript">
     $(function() {
