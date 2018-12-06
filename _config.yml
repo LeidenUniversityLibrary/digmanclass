@@ -33,7 +33,6 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "routes"
     values:
       sidebar:
         nav: dmc
@@ -42,8 +41,6 @@ defaults:
       type: "manuscripts"
     values:
       layout: route
-      sidebar:
-        nav: dmc
 
 # Build settings
 markdown: kramdown
