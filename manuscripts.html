@@ -11,7 +11,7 @@ All manuscripts in the collection
 
 <ol>
     {% for ms in site.manuscripts %}
-    <li><a href="{{ ms.url | relative_url }}">{{ms.shelfmark}}: {{ ms.title }}</a></li>
+    <li><a href="{{ ms.url | relative_url }}">{{ms.shelfmark}}: {{ ms.title }} ({{ ms.ms_date }})</a></li>
     {% endfor %}
 </ol>
 
