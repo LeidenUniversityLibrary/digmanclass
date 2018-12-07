@@ -41,7 +41,5 @@ dmc:
     children:
       - title: Overview of manuscripts
         url: /manuscripts/
-      - title: Literature
-        url: /literature/
       - title: All tags
         url: /tags/
