@@ -61,12 +61,15 @@
     border: solid black;
     height: 500px;
 }
-// nav {
-//     /* display: flex;
-//     justify-content: space-around; */
-//     border: dashed red;
-// }
-
+nav.ms-title {
+    display: flex !important;
+    justify-content: space-between;
+    // border: dashed red;
+}
+nav.ms-title > h1 {
+    display: inline-block;
+    text-align: center;
+}
 #prev {
     /* align-content: start; */
     font-size: 3em;
@@ -76,7 +79,7 @@
 }
 
 #next {
-    /* text-align: end; */
+    text-align: end;
     font-size: 3em;
     /* flex: 1; */
     width: 100px;
