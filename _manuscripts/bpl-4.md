@@ -3,25 +3,19 @@ layout: manuscript
 route: religion-devotion
 manifest: "https://lab.library.universiteitleiden.nl/transcription/iiif/110/manifest"
 title: "The City of God"
-shelfmark: "BPL 4"
-origin: "Italy, 1453"
-genre: "Augustine, *De Civitate Dei* (The City of God) book 2, chapter 43"
-material: "Paper"
+shelfmark: BPL 4
+origin: "Italy"
+ms_date: "1453"
+ms_title: De Civitate Dei 
+ms_title_en: The city of God
+material: paper
 pages: "139 fols."
 dimensions: "405 x 288 mm"
 columns: "2 cols."
 lines: "60 lines"
 questions:
-- |
-  Q1
-
-- |
-  Q2
-
-- |
-  Q3
-literature:
-- "J.P. Gumbert, *Illustrated Inventory of Medieval Manuscripts in Latin script in the Netherlands* (Hilversum 2009) 14."
+- a1
+- b2
 ---
 
 One of the most influential Christian authorities in the Middle Ages was
@@ -36,7 +30,7 @@ against the allegation that Christians had been responsible for the
 decline of Rome. The books treat subjects such as Greek philosophy, the
 Free Will and the doctrine of original sin. Many manuscripts with this
 text have survived. The University of Leiden alone has eight manuscripts
-with (parts of) the *De Civitate Dei.*\
+with (parts of) the *De Civitate Dei.*
 This manuscript contains chapter forty-three of the second book of the
 *De Civitate Dei*. As you can see this manuscript has no annotations. It
 was therefore probably not used for study purposes. On f.2 we see two
@@ -48,3 +42,5 @@ in 1590. After their expulsion the manuscript came in the possession of
 Christophorus Dibuadius (c.1578-1621), a Danish scholar studying in
 Leiden from 1598. On f.139v you can read the exact date that the scribe
 finished copying the text.
+
+{% cite gumillustrated --locator 14 %}
