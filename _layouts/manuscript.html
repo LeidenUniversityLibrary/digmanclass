@@ -16,7 +16,7 @@ layout: single-ms
 <section id="questions">
     <header><h1>Questions</h1></header>
     <ol>
-        {% for q in page.questions %}<li>{{ q }}</li>{% endfor %}
+        {% for q in page.questions %}<li>{{ site.data.questions[q] }}</li>{% endfor %}
     </ol>
 </section>
 {% endif %}
