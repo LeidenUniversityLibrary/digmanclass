@@ -56,8 +56,8 @@ books in Europe were almost exclusively made from animal skin. Then
 scribes started to use paper, tempted as they were by the lower cost of
 the material.
 
-However, parchment was regarded as the more durable of the two: \'If you
-want a real book, use parchment\' was the sentiment in the streets,
+However, parchment was regarded as the more durable of the two: 'If you
+want a real book, use parchment' was the sentiment in the streets,
 which is why some scribes, particularly monks, were hesitant to use
 paper as default material. When in c. 1450 the printing press arrived,
 animal skin quickly became obsolete, although the trend was already set
@@ -89,8 +89,8 @@ Choosing a Writing Support: Damaged Parchment
 Damaged goods
 -------------
 
-\'Be careful what you buy in the city of Erfurt: they sell you animals
-skins to which letters will not stick.\' This complaint of a medieval
+'Be careful what you buy in the city of Erfurt: they sell you animals
+skins to which letters will not stick.' This complaint of a medieval
 scribe shows that these craftsmen were well aware of the varying quality
 of animal skins, which they used as the basis for their books. However,
 calves, sheep or goats that had gruntingly given up their livelihood and
@@ -110,11 +110,11 @@ Yellow sticky note
 ------------------
 
 When the scribe cut sheets out of the animal hide, he would normally use
-the best part of the skin - what may be called the \'prime cut\'. This
+the best part of the skin - what may be called the 'prime cut'. This
 meant staying clear of the very edge of the skin because these areas
 were very thin and translucent, and deemed unsuitable for books. The
 scribe therefore cut a rim of parchment from the edge of the skin. It
-usually came off in tiny bits and pieces, which he called \'schedulae\'
+usually came off in tiny bits and pieces, which he called 'schedulae'
 - strips.
 
 These odds and ends were thrown in the bin. Sometimes they were taken
@@ -133,9 +133,9 @@ What to do when you run out of parchment as a medieval scribe? You can
 look around for something else to write on, such as left-over parchment
 strips in the bin (schedulae), or use paper if it is available.
 Alternatively, you can take a book that is no longer used from your
-monastery\'s library and scrape the text off its pages. You then simply
-reapply text of your own. Such recycling resulted in a \'palimpsest\',
-which held a removed \'lower text\' and a newer \'upper text\'.
+monastery's library and scrape the text off its pages. You then simply
+reapply text of your own. Such recycling resulted in a 'palimpsest',
+which held a removed 'lower text' and a newer 'upper text'.
 
 The ink of the reapplied text often does not stick to the page very
 well. Moreover, the older reading often shines through. Especially
@@ -194,7 +194,7 @@ Cuddly quires
 -------------
 
 While the medieval book was made out of sheets, it is the quire that is
-the object\'s building block. A quire is a small package of folded
+the object's building block. A quire is a small package of folded
 sheets (bifolia or double-leaves) made of parchment, paper or off-cuts.
 A medieval book consisted of twenty or more quires, which were held
 together by a binding. How many bifolia or singletons a scribe would use
@@ -216,7 +216,7 @@ Bonding sheets
 
 Quires are usually made from bifolia (singular: bifolium) or double
 sheets of parchment or paper. To create a bifolium, a sheet is folded in
-half (each half is called a \'folium\', which consists of two \'pages\',
+half (each half is called a 'folium', which consists of two 'pages',
 i.e. the front and back of the folium). If the quire is the building
 block of the medieval book, the bifolium is what defines the quire:
 four, five or six of them were bundled up and subsequently filled with
@@ -243,7 +243,7 @@ manuscript. To make sure that each finished quire ended up in the
 correct order, the scribe often wrote the first words of the next quire
 in the lower margin of the last page he copied.
 
-These are called \'catchwords\'.
+These are called 'catchwords'.
 
 If the catchword at the end of the quire matched the first word on the
 next quire, then they were in the correct sequence. Sometimes, to
@@ -333,10 +333,10 @@ the space between each line of text, and vertical lines to confine the
 left and right side of the textblock.
 
 Until the early twelfth century the ruling was done by pressing down on
-the parchment with a sharp object, producing a \'gutter\' that would
+the parchment with a sharp object, producing a 'gutter' that would
 guide the scribe's pen (called 'dry point'). This type of ruling was
 replaced by drawing lines with a pencil or pen, which left more visible
-traces on the surface of the page (called \'plummet\'). If a layout was
+traces on the surface of the page (called 'plummet'). If a layout was
 very complex, the ruling pattern may appear as a cobweb of horizontal
 and vertical lines.
 
@@ -350,11 +350,11 @@ Parchment makers prepared skins, scribes cut their pens and filled their
 ink pots, and binders packed their workshops with leather and wood. All
 these activities would be in vane were it not for the single event that
 sparked them: copying words. Writing a medieval text with a quill is
-hard work. \'The fingers write, but the whole body suffers\' says a
+hard work. 'The fingers write, but the whole body suffers' says a
 medieval saying. The pen could only move downwards because of how the
 nib was cut, which meant that letters had to be broken up into multiple
 pen strokes. This made writing a very slow process: a Bible could take a
-year to complete. A scribe\'s handwriting -- script - can tell us where
+year to complete. A scribe's handwriting -- script - can tell us where
 and when he was trained to write. Script tells us these things because
 the shape of letters was constantly changing. Script is thus an
 important historical tool that helps to place stories and information
@@ -366,13 +366,13 @@ Copying the Text: Abbreviation
 Abbrev.
 -------
 
-From \'app\' to \'math\': abbreviating words is human. Why write words
+From 'app' to 'math': abbreviating words is human. Why write words
 in full if a shorter version will do? Medieval scribes agreed. The
 manuscripts they made are usually packed with abbreviations. Perhaps the
 most common is the macron: a line above a letter that represents the
 letter n or m.
 
-Another popular abbreviation mark is the 7-shaped symbol for \'et\'
+Another popular abbreviation mark is the 7-shaped symbol for 'et'
 (and). The number and kinds of abbreviations varied. Manuscripts with
 liturgical texts usually have few abbreviations, while they are abundant
 in those filled with university texts, such as Aristotle. Abbreviations
@@ -418,7 +418,7 @@ with an empire of many cultures, each with its own manner of writing.
 A cohesive and unifying script was needed if his administration was to
 function properly. Caroline Minuscule looks familiar to our modern eyes
 because producers of typeface working for early Italian printers used it
-as a model. In fact, the ubiquitous default font \'Times New Roman\' on
+as a model. In fact, the ubiquitous default font 'Times New Roman' on
 our computers is also based on Caroline Minuscule.
 
 Copying the Text: Cursive Script
@@ -431,7 +431,7 @@ Cursive script began its career in the world of administration. Here it
 was used for account books, charters and other administrative texts. The
 clerks who produced these documents used a much thinner pen than what
 was used for formal book script. The flexible tip allowed for a faster
-pace and it gave the script a kind of \'casual\' feel.
+pace and it gave the script a kind of 'casual' feel.
 
 While book script required the pen to be lifted between each stroke that
 formed the letter, with cursive script the pen remained on the surface
@@ -535,7 +535,7 @@ standardized much later, however, perhaps as late as the twelfth
 century.
 
 In the thirteenth century, a Bible redaction was made in Paris (the
-\'Paris Bible\') wherein the numbering of the chapters became
+'Paris Bible') wherein the numbering of the chapters became
 standardized, something that was not a given before then. This meant
 that two individuals discussing Genesis 15 were actually talking about
 the same text for the first time. Many works used in university
@@ -550,15 +550,15 @@ Gallows
 
 Both longer and shorter medieval texts were usually divided into smaller
 sections called paragraphs. In the early days of the paragraph, in the
-ninth century, they often had the appearance of a plain \'hook\'
+ninth century, they often had the appearance of a plain 'hook'
 resembling the gallows. In the eleventh and twelfth centuries more
 sophisticated variants began to appear. First, diagonal lines started to
 connect the horizontal and vertical part of the paragraph.
 
 Then, in the age of the scholastic book, the reading aid received our
-modern shape: a \'c\' with a vertical line struck through its centre. In
+modern shape: a 'c' with a vertical line struck through its centre. In
 scholastic texts this type of paragraph often came in two alternating
-colors: red and blue. They appear to mark the \'lector\', the passage
+colors: red and blue. They appear to mark the 'lector', the passage
 that was read out loud in the classroom an which was subsequently
 discussed. The c-symbol indicated the start of such a passage, while the
 colors made it easier to know when to stop reading.
@@ -571,10 +571,10 @@ Spoiler
 
 As Spanish bull fighters know, red is an excellent color for attracting
 attention. In manuscripts it was used for the rubric (from the Latin
-word for \'red\'). Placed at the outset of each chapter, rubrics
+word for 'red'). Placed at the outset of each chapter, rubrics
 provided the reader with an indication of what the following chapter was
 about. Now that was handy! Some were very short and simply stated
-\'about such and such\' while others were quite elaborate - spoilers,
+'about such and such' while others were quite elaborate - spoilers,
 even, which revealed in detail what the reader was about to read.
 
 The color red set the words apart from the black or brown words of the
@@ -593,7 +593,7 @@ You are here
 Running titles have a long history. They are encountered in manuscripts
 made as early as the sixth century. Their main use was to indicate to
 the reader where in the book he or she was. Early examples merely reveal
-the given book within the text - stating, for example \'Liber primus\'
+the given book within the text - stating, for example 'Liber primus'
 (Book 1). With the coming of the scholastic manuscript in the late
 twelfth century, used at universities throughout Europe, the running
 titles became more sophisticated. They would often provide the reader
@@ -604,8 +604,8 @@ It became split up and spread out over both top margins of a book
 opening: half of the text title on the left page, the other half on the
 right page. An equally early adopter of this clever type is the Paris
 Bible, a popular tool among preachers on the road. Like students, they
-needed to find texts and passages quickly. \'You are here\' they seem to
-say, \'Now you do your thing\'.
+needed to find texts and passages quickly. 'You are here' they seem to
+say, 'Now you do your thing'.
 
 Copying the Text: Scribal Colophon
 ==================================
@@ -625,8 +625,8 @@ always found on the last page). The colophon provides us with similar
 information now copied onto title pages. A scribe may state, for
 example, in which year he copied the book, where he lived, and, in some
 cases, even for whom the book was made. Some colophons provide a more
-prosaic fact, for example that a scribe is thirsty: \'This work is
-completed, master, now give me a drink!\'
+prosaic fact, for example that a scribe is thirsty: 'This work is
+completed, master, now give me a drink!'
 
 Copying the Text: Pen Trials
 ============================
@@ -655,7 +655,7 @@ One, two, three
 Until the invention of the page number readers had no means to find a
 particular page in the book quickly. The system medieval scribes came up
 with is slightly different from our modern pagination. Only one side of
-each leaf was given a number, meaning that medieval \'foliation\'
+each leaf was given a number, meaning that medieval 'foliation'
 referred to not one but two pages. Although the practice of placing a
 number sequence throughout the book is observed in some earlier
 manuscripts, it became popular in the thirteenth century. Scholars at
@@ -697,8 +697,8 @@ How did a medieval scribe correct a mistake? If you forgot to copy a
 word, you could simply insert it in between the lines of the completed
 text. If you had written down the wrong word or sentence, correcting the
 text could take considerable more effort. In such cases scribes often
-resorted to their knife. Dried ink could be \'snapped\' off the page
-with the knife\'s tip.
+resorted to their knife. Dried ink could be 'snapped' off the page
+with the knife's tip.
 
 Once the words were removed the correct reading was placed in the gap.
 However, a mistake was never fully deleted. You can often still vaguely
@@ -813,7 +813,7 @@ fortune, especially if gold was used. In a process called gilding, the
 decorator would apply an ultra-thin film of flattened gold to the page,
 which looked not unlike our modern tin foil. Golden shapes were not
 appended directly to the surface of the parchment, but that they were
-stretched over little \'hills\' of plaster. This way the gold would
+stretched over little 'hills' of plaster. This way the gold would
 catch the light from different angles, maximizing its dazzling effect.
 
 Decorating the Book: Historiated Initial
@@ -888,9 +888,9 @@ because of their low costs.
 At the other end of the scale were richly decorated bindings with wooden
 boards and blind-tooled decoration. The motifs used in the decoration
 can sometimes help us to relate a binding to a certain atelier or city.
-Some even tell us who the binder was. \'Godefridus me fecit\' says a
+Some even tell us who the binder was. 'Godefridus me fecit' says a
 binding produced by Godefridus de Block, a fourteenth-century binder in
-Brussels. Very rare are so-called \'treasure bindings\', which covered
+Brussels. Very rare are so-called 'treasure bindings', which covered
 books, that needed to look handsome and rich, such as gifts or a Gospel
 Book used for altar display.
 
@@ -914,7 +914,7 @@ spite of their mutilated appearance, these fragments can be of great
 importance. The early history of the Bible, for example, could not have
 been written without the fragmentary evidence retrieved from
 early-modern bindings. While of modest size, the stowaways form
-\'blips\' on the map of Europe, showing that a certain text was
+'blips' on the map of Europe, showing that a certain text was
 available at a certain moment and location.
 
 Binding the Book: Boards
@@ -944,9 +944,9 @@ Add-ons
 -------
 
 Many medieval books were a joy to look at even when they were closed.
-Various shiny \'add-ons\' were drilled in and attached to the wooden
+Various shiny 'add-ons' were drilled in and attached to the wooden
 boards on the outside of the book. The most pronounced of these are the
-so-called \'bosses\', protective metal pieces attached to each corner of
+so-called 'bosses', protective metal pieces attached to each corner of
 the binding. Much more common are clasps, pieces of metal that kept the
 book closed.
 
@@ -966,7 +966,7 @@ Wrapper
 
 The majority of surviving medieval bindings made use of wooden boards
 which helped to protect the book and to keep the quires in place. The
-so-called \'limp binding\' is another type of binding that was in
+so-called 'limp binding' is another type of binding that was in
 popular use in medieval times. Its most notable feature is the absence
 of boards, which explains its name. With a limp binding the quires are
 covered by a plain parchment wrapper without the support of wooden
@@ -1039,8 +1039,8 @@ Helping Hand
 ------------
 
 With a nota-sign the reader expressed that a passage was noteworthy or
-deserved a closer read. The manicula (Latin for \'little hand\') was
-another means to do so. As with \'nota-signs\', the actual form of the
+deserved a closer read. The manicula (Latin for 'little hand') was
+another means to do so. As with 'nota-signs', the actual form of the
 pointing finger varies considerably. Readers may have had their own
 unique design to distinguish their hands from those of other readers.
 
@@ -1059,14 +1059,14 @@ Note to self
 While the bookmark guided the reader to an important chapter or text,
 the nota-sign marked a significant passage or sentence on the page. From
 time to time readers noticed something in the text worth highlighting.
-In such cases they wrote the Latin \'nota\' in the margin, which means
-to \'examine\' or \'inspect\'. While some of these nota-signs may have
+In such cases they wrote the Latin 'nota' in the margin, which means
+to 'examine' or 'inspect'. While some of these nota-signs may have
 served as a reminder to check something, others appear to express a more
-generic \'attention!\' like the \'manicula\' did.
+generic 'attention!' like the 'manicula' did.
 
 The nota-sign is not written like a normal word. Rather, its four
 letters are reshuffled and stretched so as to form a unique symbol. This
-was likely done to distinguish a reader\'s passages from those marked by
+was likely done to distinguish a reader's passages from those marked by
 other users of the book, such as his fellow brethren in the monastery.
 
 Using the Book: Notes
@@ -1083,5 +1083,5 @@ extensive notes were sometimes written on tiny paper or parchment slips.
 Students are known to have used them to take down notes in the classroom
 or when they were studying a text at home. Few of them survive today.
 Not only were they easy to lose, but many of them were actually thrown
-out, similar to the fate of our modern day \'sticky notes\'. In some
+out, similar to the fate of our modern day 'sticky notes'. In some
 manuscripts they survive because they were tucked in between the pages.
