@@ -8,7 +8,7 @@ layout: archive
 
 <ol>
     {% for ms in site.manuscripts %}
-    {% if ms.route == page.identifier %}<li><a href="{{ ms.url | relative_url }}">{{ms.shelfmark}}: {{ ms.title }}</a></li>
+    {% if ms.route == page.identifier %}<li><a href="{{ ms.url | relative_url }}">{{ms.shelfmark}}: {{ ms.title }} ({{ ms.ms_date }})</a></li>
       {% endif %}{% endfor %}
 </ol>
 
