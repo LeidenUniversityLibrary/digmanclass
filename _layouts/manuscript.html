@@ -21,6 +21,10 @@ layout: single-ms
 {% endif %}
 <section id="related">
     <header><h1>Related manuscripts</h1></header>
+    <ol>
+        {% for ms in site.data.most_sim[page.shelfmark] %}
+         <li><a href="{{site.baseurl}}/manuscripts/{{ ms | downcase | replace: ' ', '-' | append: '/'}}" target="_blank">{{ ms }}</a></li>{% endfor %}
+    </ol>
 </section>
 <section id="bibliography">
     <header><h1>Literature</h1></header>
