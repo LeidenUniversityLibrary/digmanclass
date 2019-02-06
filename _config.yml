@@ -42,6 +42,9 @@ defaults:
     values:
       layout: route
 
+footer_scripts:
+  - "/assets/js/links.js"
+
 # Build settings
 markdown: kramdown
 theme: minimal-mistakes-jekyll
