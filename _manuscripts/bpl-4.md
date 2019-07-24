@@ -1,5 +1,6 @@
 ---
 layout: manuscript
+handle: https://hdl.handle.net/1887.1/item:1679348
 route: religion-devotion
 manifest: "https://lab.library.universiteitleiden.nl/transcription/iiif/110/manifest"
 title: "The City of God"
