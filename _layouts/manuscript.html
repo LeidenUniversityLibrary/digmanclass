@@ -2,7 +2,8 @@
 layout: single-ms
 classes: wide
 ---
-<header>{{ page.route }}</header>
+{% assign this_route = site.routes | where:"identifier",page.route %}
+<header>{% for route in this_route %}{{ route.title }}{% endfor %}</header>
 <nav class="ms-title">
     <div id="prev"><a href="{{ page.previous.url | relative_url }}" rel="prev" title="Previous manuscript">☜</a></div>
     <h1>{{ page.title }}</h1>
@@ -10,7 +11,7 @@ classes: wide
 </nav>
 <section id="sect-viewer">
     <div id="viewer">De viewer</div>
-    <div id="ms-identification"><strong>{{ page.shelfmark }}</strong> ({{ page.origin }}, {{ page.ms_date }}): {{ page.ms_title }} ({{ page.ms_title_en }}), {{ page.material }}, {{ page.pages }}, {{ page.dimensions }}, {{ page.columns }}, {{ page.lines }}.</div>
+    <div id="ms-identification"><strong>{{ page.shelfmark }}</strong> ({{ page.origin }}, {{ page.ms_date }}): {{ page.ms_title }} ({{ page.ms_title_en }}), {{ page.material }}, {{ page.pages }}, {{ page.dimensions }}, {{ page.columns }}, {{ page.lines }}. {% if page.handle %}<a href="{{ page.handle }}">{{ page.handle }}</a>{% endif %}</div>
     <div id="description">{{ content }}</div>
 </section>
 {% if page.questions %}
