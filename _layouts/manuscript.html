@@ -11,7 +11,9 @@ classes: wide
 </nav>
 <section id="sect-viewer">
     <div id="viewer"></div>
-    <div id="ms-identification"><span class="shelfmark">{% if page.handle %}<a href="{{ page.handle }}" title="See {{ page.shelfmark }} in Digital Collections">{{ page.shelfmark }}</a>{% else %}{{ page.shelfmark }}{% endif %}</span> ({{ page.origin }}, {{ page.ms_date }}): {{ page.ms_title }} ({{ page.ms_title_en }}), {{ page.material }}, {{ page.pages }}, {{ page.dimensions }}, {{ page.columns }}, {{ page.lines }}.</div>
+    <div id="ms-identification"><span class="shelfmark">{% if page.handle %}<a href="{{ page.handle }}" title="See {{ page.shelfmark }} in Digital Collections">{{ page.shelfmark }}</a>{% else %}{{ page.shelfmark }}{% endif %}</span> ({{ page.origin }}, {{ page.ms_date }}):
+        {% if page.ms_creator %}{{ page.ms_creator }}, {% endif %}
+        <em>{{ page.ms_title }}</em> ({{ page.ms_title_en }}), {{ page.material }}, {{ page.pages }}, {{ page.dimensions }}, {{ page.columns }}, {{ page.lines }}.</div>
     <div id="description">{{ content }}</div>
 </section>
 {% if page.questions %}
