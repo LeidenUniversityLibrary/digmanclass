@@ -7,7 +7,7 @@ layout: archive
 </section>
 {% assign route_mss = site.manuscripts | where:"route",page.identifier %}
 <ol>{% for ms in route_mss %}
-    <li><a href="{{ ms.url | relative_url }}">{{ms.shelfmark}}: {{ ms.title }} ({{ ms.ms_date }})</a></li>
+    <li><a href="{{ ms.url | relative_url }}">{{ ms.title }} ({{ms.shelfmark}}, {{ ms.ms_date }})</a></li>
     {% endfor %}
 </ol>
 
