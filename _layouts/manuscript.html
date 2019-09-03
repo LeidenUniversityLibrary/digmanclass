@@ -34,8 +34,9 @@ classes: wide
     {% bibliography --cited %}
 </section>
 <script type="text/javascript">
+    var mir;
     $(function() {
-        Mirador({
+        mir = Mirador({
         id: "viewer",
         buildPath: "https://lab.library.universiteitleiden.nl/mirador/2.7.0/",
         data: [{manifestUri: "{{ page.manifest }}", location: "Leiden University Library"}],
