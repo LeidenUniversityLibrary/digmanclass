@@ -10,8 +10,8 @@ classes: wide
     <div id="next"><a href="{{ page.next.url | relative_url }}" rel="next" title="Next manuscript">☞</a></div>
 </nav>
 <section id="sect-viewer">
-    <div id="viewer">De viewer</div>
-    <div id="ms-identification"><strong>{{ page.shelfmark }}</strong> ({{ page.origin }}, {{ page.ms_date }}): {{ page.ms_title }} ({{ page.ms_title_en }}), {{ page.material }}, {{ page.pages }}, {{ page.dimensions }}, {{ page.columns }}, {{ page.lines }}. {% if page.handle %}<a href="{{ page.handle }}">{{ page.handle }}</a>{% endif %}</div>
+    <div id="viewer"></div>
+    <div id="ms-identification"><span class="shelfmark">{% if page.handle %}<a href="{{ page.handle }}" title="See {{ page.shelfmark }} in Digital Collections">{{ page.shelfmark }}</a>{% else %}{{ page.shelfmark }}{% endif %}</span> ({{ page.origin }}, {{ page.ms_date }}): {{ page.ms_title }} ({{ page.ms_title_en }}), {{ page.material }}, {{ page.pages }}, {{ page.dimensions }}, {{ page.columns }}, {{ page.lines }}.</div>
     <div id="description">{{ content }}</div>
 </section>
 {% if page.questions %}
