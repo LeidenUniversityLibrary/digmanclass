@@ -2,7 +2,7 @@
 layout: manuscript
 handle: https://hdl.handle.net/1887.1/item:1679348
 route: religion-devotion
-manifest: "https://lab.library.universiteitleiden.nl/transcription/iiif/110/manifest"
+manifest: "https://transcription.digitalscholarship.nl/iiif/5/manifest"
 title: "The City of God"
 shelfmark: BPL 4
 origin: "Italy"
@@ -47,6 +47,6 @@ Dibuadius (*c*.1578-1621), a Danish scholar studying in Leiden. In fol.
 139v you can read the exact date that the scribe finished copying the
 text.
 
-**\*** **Decorating the Book**
+**\* Decorating the Book**
 
 {% cite gumillustrated --locator 14 %}
