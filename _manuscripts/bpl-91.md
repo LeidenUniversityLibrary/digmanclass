@@ -36,14 +36,14 @@ BPL 186).
 The manuscript is decorated with beautifully colored initials.
 Unfortunately, the first leaves of the manuscript were partly eaten by
 rodents. The flyleaves at the back of the manuscript are made from badly
-damaged parchment\* (see the holes and the stitches). Scribes have used
+damaged parchment[^1] (see the holes and the stitches). Scribes have used
 the first page of these flyleaves to test their pens by scribbling down
 words and symbols. The rusty brown stain in the middle of this page
 probably covers an owner mark. The following two pages of the flyleaves
 were used in the fourteenth century to add more glosses. Someone has
 even added a remark in Hebrew.
 
-**\* Choosing a Writing Support: Damaged Parchment**
+[^1]: [Choosing a Writing Support: Damaged Parchment](/glossary/#)
 
 {% cite gumillustrated --locator 48 %}
 {% cite gereuropa --locator 9-13 %}

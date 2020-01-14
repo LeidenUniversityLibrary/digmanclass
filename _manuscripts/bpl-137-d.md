@@ -37,10 +37,10 @@ book", due to its long, narrow format. In holster books, the page's
 width equals sixty percent or less of its height. The unusual size was
 convenient for teachers, as the books could easily be held in one hand
 while he was walking through the classroom. Many manuscripts from the
-eleventh and twelfth centuries are in holster format. The glosses\* in
+eleventh and twelfth centuries are in holster format. The glosses[^1] in
 the manuscript are from the thirteenth through the fifteenth centuries,
 showing that the text was frequently studied over a long period of time.
 
-**\* Using the Book: Gloss**
+[^1]: [Using the Book: Gloss](/glossary/#)
 
 {% cite gumillustrated --locator 68 %}

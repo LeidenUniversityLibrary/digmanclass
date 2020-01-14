@@ -35,9 +35,9 @@ translated into Latin in 1518.
 The annotations in this manuscript are minimal. Someone, either the
 scribe or one of the readers, tipped in a small piece of paper (now fol.
 330) in order to add a diagram to a text on the *practica abbatis* (The
-monk's practica) by pseudo-Aquinas.\* Fol. 253r - 255v contains a text on
+monk's practica) by pseudo-Aquinas.[^1] Fol. 253r - 255v contains a text on
 a formula that was used by king Philip IV of France.
 
-**\* Using the Book: Notes**
+[^1]: [Using the Book: Notes](/glossary/#)
 
 {% cite boecodices --locator 28-32 %}

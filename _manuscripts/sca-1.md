@@ -37,10 +37,10 @@ and *De musica.* These four texts were used to study the "quadrivium":
 arithmetic, geometry, music and astronomy. This copy of the *Regulae abaci* was decorated by an illuminator known as the Virgil Master, who
 worked at the court of Jean de Berry from the 1390s to the 1410s. He
 added many pen-flourished initials and a beautifully historiated
-initial\* on fol. 1r. The scribe has also added a form of decoration by
+initial[^1] on fol. 1r. The scribe has also added a form of decoration by
 extending the ascending and descending the strokes of some of the
 letters of the first and last line of every page.
 
-**\* Decorating the Book: Historiated Initial**
+[^1]: [Decorating the Book: Historiated Initial](/glossary/#)
 
 {% cite mmdc %}

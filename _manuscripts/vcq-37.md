@@ -37,13 +37,13 @@ VCF 6). The third is about the properties of wine, which many believed
 could be used for medicinal purposes, such as healing dementia or
 sinusitis.
 
-The top of each page of this manuscript contains running titles\* in red
+The top of each page of this manuscript contains running titles[^1] in red
 ink, which made it much easier for the reader to see which treatise he
 or she was reading. From fol. 22v onwards the manuscript contains
 several drawings of various *laboratory glassware items*. There is an
 empty space on fol. 68v, which was probably meant for a more elaborate
 drawing that was never completed.
 
-**\* Copying the Text: Reading Aids Running Title**
+[^1]: [Copying the Text: Reading Aids Running Title](/glossary/#)
 
 {% cite boecodices --locator 193-194 %}

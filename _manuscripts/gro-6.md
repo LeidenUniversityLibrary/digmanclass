@@ -37,8 +37,8 @@ prior to being bound together. The first part, containing the *Ad herennium*, ha
 than the other parts. Another sign is that the leaves of part three are
 damaged by water or mold, but the other parts appear untouched by the
 damage. Part one, two, three, and five still have empty spaces where an
-illuminator was supposed to add pen-flourished initials.\*
+illuminator was supposed to add pen-flourished initials.[^1]
 
-**\* Decorating the Book**
+[^1]: [Decorating the Book](/glossary/#)
 
 {% cite mmdc %}

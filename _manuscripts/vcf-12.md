@@ -41,9 +41,9 @@ initials are slightly visible on the cover of the manuscript) and [Isaac
 Vossius](https://en.wikipedia.org/wiki/Isaac_Vossius) (fol. 1r). There
 is an additional name that was crossed out on fol. 195v. These owners --
 and perhaps others -- added several notes in the margins. From fol. 131v
-onwards you can see many maniculae\*; drawings of tiny hands used to
+onwards you can see many maniculae[^1]; drawings of tiny hands used to
 point to relevant passages in the text.
 
-**\* Using the Book: Manicula**
+[^1]: [Using the Book: Manicula](/glossary/#)
 
 {% cite boecodices --locator 39-41 %}

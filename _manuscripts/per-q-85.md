@@ -39,8 +39,8 @@ rubrics or any decorated initials. Apart from a few annotations, each
 leaf is empty on the verso side. Bondam could have either copied these
 annotations from the exemplar he used or added them himself as he
 studied the text. One anotation can still be found in Bondam's version;
-he did copy the catchwords\* in the bottom right corner.
+he did copy the catchwords[^1] in the bottom right corner.
 
-**\* Making Quires and Sheets: Catchwords and Signatures**
+[^1]: [Making Quires and Sheets: Catchwords and Signatures](/glossary/#)
 
 {% cite meycodices --locator 101-102 %}

@@ -43,8 +43,8 @@ the Latin language.
 Each letter of the alphabet within this manuscript is introduced with a
 pen-flourished or colored initial. Lines that are not fully occupied by
 script are filled in with red decorations, called line fillers (see for
-example fol. 67v).\*
+example fol. 67v).[^1]
 
-**\* Decorating the Book**
+[^1]: [Decorating the Book](/glossary/#)
 
 {% cite gumillustrated --locator 20 %}

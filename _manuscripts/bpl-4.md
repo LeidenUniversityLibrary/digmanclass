@@ -37,7 +37,7 @@ University Library has eight, each containing a part of *De civitate Dei.*
 This manuscript (BPL 4) contains chapter forty-three of the second book
 of *De civitate Dei*. As you can see, there are no annotations,
 indicating it was probably not used for study purposes. In fol. 2r we
-see two large decorated initials\*, while other pages are decorated with
+see two large decorated initials[^1], while other pages are decorated with
 smaller colored initials in red and blue. We can see from the owner
 marks on the flyleaves that this manuscript belonged to the Convent of
 St. Clara in Amsterdam around the year 1500, where it remained until
@@ -47,6 +47,6 @@ Dibuadius (*c*.1578-1621), a Danish scholar studying in Leiden. In fol.
 139v you can read the exact date that the scribe finished copying the
 text.
 
-**\* Decorating the Book**
+[^1]: [Decorating the Book](/glossary/#)
 
 {% cite gumillustrated --locator 14 %}

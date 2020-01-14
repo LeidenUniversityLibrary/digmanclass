@@ -35,13 +35,13 @@ accompanied by practical recipes. Even though the treatises do not deal
 with religious subjects directly, the reader is often encouraged to give
 praise Jesus before he or she starts making a recipe. One of the owners
 has added annotations in the margin in red ink. Important passages are
-either pointed out with a manicula\* or by writing "nota" (note this!)
+either pointed out with a manicula[^1] or by writing "nota" (note this!)
 in the margin. Unlike the notas in most medieval manuscripts, which were
 generally symbols, these nota marks are written in easily readable
 words. The single scribe who copied this manuscript often used symbols
 in the texts, such as the moon, sun, and gender symbols (see also VCF
 17).
 
-**\* Using the Book: Manicula**
+[^1]: [Using the Book: Manicula](/glossary/#)
 
 {% cite boecodices --locator 38 %}

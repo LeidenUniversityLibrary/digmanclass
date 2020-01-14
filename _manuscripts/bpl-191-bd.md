@@ -36,9 +36,9 @@ student who ask each other questions about the
 BPL 154). Maurus' text on calculation was frequently copied in
 schoolbooks, owing to its accessible way of presenting information. Like
 the drawings on finger counting, these tools were probably meant to
-aid\* the students with their own calculations.
+aid[^1] the students with their own calculations.
 
-**\* Copying the Text: Reading Aids**
+[^1]: [Copying the Text: Reading Aids](/glossary/#)
 
 {% cite gumillustrated --locator 92 %}
 {% cite schkunst --locator f.4r-5v %}

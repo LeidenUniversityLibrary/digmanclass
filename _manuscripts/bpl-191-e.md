@@ -36,11 +36,11 @@ Bible, and letters from [Ivo of Chartres](https://en.wikipedia.org/wiki/Ivo_of_C
 texts were bound together some time later, resulting in a variety of
 lay-outs throughout the manuscript. In the margins of the first part of
 this manuscript (fol. 1r - fol. 60v) you can see unusual marks, known as
-*nota bene*\* markings, on almost every leaf. If you look closely you
+*nota bene*[^1] markings, on almost every leaf. If you look closely you
 can see that each drawing is a monogram of the letters n, o, t, and a.
 Nota bene markings vary in appearance from page to page.
 
-**\* Using the Book: Nota**
+[^1]: [Using the Book: Nota](/glossary/#)
 
 {% cite gumillustrated --locator 90-92 %}
 {% cite gereuropa --locator 34-37 %}

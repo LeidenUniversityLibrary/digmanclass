@@ -34,11 +34,11 @@ texts on alchemy. One alchemical recipe describes how to make oil from
 cream of tartar. Another teaches the reader how to make noble metals.
 This manuscript belonged to Wolfen Herrn zue Regendorff (see flyleaf at
 the front), most likely a priest from Regendorf, Germany. Even though
-the leaves provide plenty of space for commentary, the readers' notes\*
+the leaves provide plenty of space for commentary, the readers' notes[^1]
 in this manuscript are minimal. Some of the pages are decorated with
 drawings of small bottles and other laboratory glassware (see for
 example fol. 9v).
 
-**\* Using the Book: Gloss**
+[^1]: [Using the Book: Gloss](/glossary/#)
 
 {% cite boecodices --locator 134 %}

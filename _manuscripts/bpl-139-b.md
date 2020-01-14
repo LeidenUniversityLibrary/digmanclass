@@ -38,7 +38,7 @@ initial of a man that is being torn by two lions.
 The manuscript has another interesting element - the flyleaf at the back
 contains various words and symbols that don't seem to be connected to
 the contents of the manuscript. This has an easy explanation; the leaf
-was used by the scribe(s) to test the pen\*. Just like a pencil, the nib
+was used by the scribe(s) to test the pen[^1]. Just like a pencil, the nib
 of a pen becomes dull after a while. To rectify this, the scribe had to
 trim the nib with a knife. Afterwards he tested the pen to check if it
 was ready for use by scribbling lines, words, or little drawings.
@@ -47,7 +47,7 @@ This flyleaf with pen trials contains a strange drawing of a person, the
 name Petrus, and musical notations known as
 [neumes](https://en.wikipedia.org/wiki/Neume). (see also BPL 2851).
 
-**\* Copying the Text: Pen Trials**
+[^1]: [Copying the Text: Pen Trials](/glossary/#)
 
 {% cite gereuropa %}
 {% cite gumillustrated --locator 68-70 %}
