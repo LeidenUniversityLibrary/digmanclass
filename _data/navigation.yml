@@ -37,7 +37,7 @@ dmc:
       - title: Incunables
         url: /routes/incunables/
 
-  - title: "Indices"
+  - title: "Overviews"
     children:
       - title: Overview of manuscripts
         url: /manuscripts/
