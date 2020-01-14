@@ -1,7 +1,7 @@
 ---
 layout: manuscript
 route: diy-manuals
-manifest: 
+manifest: https://transcription.digitalscholarship.nl/iiif/5
 title: Planets, metals and elements
 shelfmark: VCF 21
 origin: "Germany"

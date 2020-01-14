@@ -1,7 +1,7 @@
 ---
 layout: manuscript
 route: liberal-arts-education
-manifest: 
+manifest: https://transcription.digitalscholarship.nl/iiif/5
 title: Testing the Pen
 shelfmark: BPL 139 B
 origin: "Fleury, France"

@@ -1,7 +1,7 @@
 ---
 layout: manuscript
 route: diy-manuals
-manifest: 
+manifest: https://transcription.digitalscholarship.nl/iiif/5
 title: A Note on Alchemy
 shelfmark: VCF 11
 origin: "Germany"

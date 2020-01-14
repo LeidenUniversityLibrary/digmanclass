@@ -1,7 +1,7 @@
 ---
 layout: manuscript
 route: diy-manuals
-manifest: 
+manifest: https://transcription.digitalscholarship.nl/iiif/5
 title: A friendly reminder
 shelfmark: VCF 8
 origin: "Germany"

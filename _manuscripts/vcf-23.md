@@ -1,7 +1,7 @@
 ---
 layout: manuscript
 route: diy-manuals
-manifest: 
+manifest: https://transcription.digitalscholarship.nl/iiif/5
 title: The secret of secrets
 shelfmark: VCF 23
 origin: "Germany"

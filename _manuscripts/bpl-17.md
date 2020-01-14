@@ -1,7 +1,7 @@
 ---
 layout: manuscript
 route: liberal-arts-education
-manifest: 
+manifest: https://transcription.digitalscholarship.nl/iiif/5
 title: A medieval dictionary
 shelfmark: BPL 17
 origin: "France?"

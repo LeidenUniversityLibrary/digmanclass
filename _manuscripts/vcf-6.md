@@ -1,7 +1,7 @@
 ---
 layout: manuscript
 route: diy-manuals
-manifest: 
+manifest: https://transcription.digitalscholarship.nl/iiif/5
 title: The philosopher's stone
 shelfmark: VCF 6
 origin: "Dresden, Germany"

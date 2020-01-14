@@ -1,7 +1,7 @@
 ---
 layout: manuscript
 route: liberal-arts-education
-manifest: 
+manifest: https://transcription.digitalscholarship.nl/iiif/5
 title: Face to Face with Statius
 shelfmark: BPL 191 A
 origin: "France/Southern Netherlands"
