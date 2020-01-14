@@ -44,6 +44,6 @@ several drawings of various *laboratory glassware items*. There is an
 empty space on fol. 68v, which was probably meant for a more elaborate
 drawing that was never completed.
 
-[^1]: [Copying the Text: Reading Aids Running Title](/glossary/#)
+[^1]: [Copying the Text: Reading Aids Running Title]({{ "/glossary/#" | relative_url }})
 
 {% cite boecodices --locator 193-194 %}

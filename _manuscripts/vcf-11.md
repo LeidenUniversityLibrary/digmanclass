@@ -42,6 +42,6 @@ words. The single scribe who copied this manuscript often used symbols
 in the texts, such as the moon, sun, and gender symbols (see also VCF
 17).
 
-[^1]: [Using the Book: Manicula](/glossary/#)
+[^1]: [Using the Book: Manicula]({{ "/glossary/#" | relative_url }})
 
 {% cite boecodices --locator 38 %}

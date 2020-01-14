@@ -47,6 +47,6 @@ Dibuadius (*c*.1578-1621), a Danish scholar studying in Leiden. In fol.
 139v you can read the exact date that the scribe finished copying the
 text.
 
-[^1]: [Decorating the Book](/glossary/#)
+[^1]: [Decorating the Book]({{ "/glossary/#" | relative_url }})
 
 {% cite gumillustrated --locator 14 %}

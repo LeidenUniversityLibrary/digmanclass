@@ -41,6 +41,6 @@ eleventh and twelfth centuries are in holster format. The glosses[^1] in
 the manuscript are from the thirteenth through the fifteenth centuries,
 showing that the text was frequently studied over a long period of time.
 
-[^1]: [Using the Book: Gloss](/glossary/#)
+[^1]: [Using the Book: Gloss]({{ "/glossary/#" | relative_url }})
 
 {% cite gumillustrated --locator 68 %}

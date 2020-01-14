@@ -38,6 +38,6 @@ scribe or one of the readers, tipped in a small piece of paper (now fol.
 monk's practica) by pseudo-Aquinas.[^1] Fol. 253r - 255v contains a text on
 a formula that was used by king Philip IV of France.
 
-[^1]: [Using the Book: Notes](/glossary/#)
+[^1]: [Using the Book: Notes]({{ "/glossary/#" | relative_url }})
 
 {% cite boecodices --locator 28-32 %}

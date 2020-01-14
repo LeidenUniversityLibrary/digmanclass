@@ -45,6 +45,6 @@ pen-flourished or colored initial. Lines that are not fully occupied by
 script are filled in with red decorations, called line fillers (see for
 example fol. 67v).[^1]
 
-[^1]: [Decorating the Book](/glossary/#)
+[^1]: [Decorating the Book]({{ "/glossary/#" | relative_url }})
 
 {% cite gumillustrated --locator 20 %}

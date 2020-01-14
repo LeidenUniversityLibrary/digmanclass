@@ -38,7 +38,7 @@ schoolbooks, owing to its accessible way of presenting information. Like
 the drawings on finger counting, these tools were probably meant to
 aid[^1] the students with their own calculations.
 
-[^1]: [Copying the Text: Reading Aids](/glossary/#)
+[^1]: [Copying the Text: Reading Aids]({{ "/glossary/#" | relative_url }})
 
 {% cite gumillustrated --locator 92 %}
 {% cite schkunst --locator f.4r-5v %}
