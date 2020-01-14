@@ -1,7 +1,7 @@
 ---
 layout: manuscript
 route: liberal-arts-education
-manifest: https://transcription.digitalscholarship.nl/iiif/5
+manifest: https://transcription.digitalscholarship.nl/iiif/5/manifest
 title: An Artistic Failure
 shelfmark: BPL 137 D
 origin: "France/Italy"

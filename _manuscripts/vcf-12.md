@@ -1,7 +1,7 @@
 ---
 layout: manuscript
 route: diy-manuals
-manifest: https://transcription.digitalscholarship.nl/iiif/5
+manifest: https://transcription.digitalscholarship.nl/iiif/5/manifest
 title: The marvelous doctor
 shelfmark: VCF 12
 origin: "Germany"

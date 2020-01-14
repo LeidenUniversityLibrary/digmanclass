@@ -1,7 +1,7 @@
 ---
 layout: manuscript
 route: liberal-arts-education
-manifest: https://transcription.digitalscholarship.nl/iiif/5
+manifest: https://transcription.digitalscholarship.nl/iiif/5/manifest
 title: Miscalculation!
 shelfmark: BPL 191 E
 origin: "Germany and Italy"

@@ -1,7 +1,7 @@
 ---
 layout: manuscript
 route: diy-manuals
-manifest: https://transcription.digitalscholarship.nl/iiif/5
+manifest: https://transcription.digitalscholarship.nl/iiif/5/manifest
 title: The most precious gift of God
 shelfmark: VCF 15
 origin: "Germany"

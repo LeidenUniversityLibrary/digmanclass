@@ -1,7 +1,7 @@
 ---
 layout: manuscript
 route: liberal-arts-education
-manifest: https://transcription.digitalscholarship.nl/iiif/5
+manifest: https://transcription.digitalscholarship.nl/iiif/5/manifest
 title: A Modern Example
 shelfmark: PER Q 85
 origin: "Netherlands"
