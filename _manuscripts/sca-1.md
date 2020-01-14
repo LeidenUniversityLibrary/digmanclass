@@ -41,6 +41,6 @@ initial[^1] on fol. 1r. The scribe has also added a form of decoration by
 extending the ascending and descending the strokes of some of the
 letters of the first and last line of every page.
 
-[^1]: [Decorating the Book: Historiated Initial]({{ "/glossary/#" | relative_url }})
+[^1]: [Decorating the Book: Historiated Initial]({{ "/glossary/#historiated-initial" | relative_url }})
 
 {% cite mmdc %}
