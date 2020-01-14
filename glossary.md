@@ -8,8 +8,7 @@ sidebar:
 Choosing a Writing Support
 ==========================
 
-Skins and scraps:
------------------
+Skins and scraps
 
 For much of the Middle Ages dead cows were the main ingredient for
 books. What was frolicking in the meadow one month, may have been a page
@@ -27,11 +26,9 @@ as monks, ignored the new material, while others, especially those who
 wanted to economize, embraced it. Paper and parchment were used for all
 sorts of manuscripts, from chunky volumes to small folded books.
 
-Choosing a Writing Support: Wax Tablet
-======================================
+## Wax Tablet
 
 Tablet
-------
 
 This clever device from Antiquity provided the user with a layer of wax
 on a wooden frame to capture his thoughts. With a little pressure from
@@ -41,11 +38,9 @@ stylus would create ideas, which could subsequently be wiped again. The
 classroom was a place where wax tablets were used on a daily basis, at
 least up until the fourteenth century.
 
-Choosing a Writing Support: Parchment
-=====================================
+## Parchment
 
 Dead cows
----------
 
 What was once a calf, sheep or goat frolicking grazing in the meadow,
 may now be a page in a manuscript. That is not a bad way to go. It is a
@@ -63,11 +58,9 @@ paper as default material. When in c. 1450 the printing press arrived,
 animal skin quickly became obsolete, although the trend was already set
 half a century earlier.
 
-Choosing a Writing Support: High Quality Parchment
-==================================================
+## High Quality Parchment
 
 Perfect skin
-------------
 
 Up to around 1300, most books in Europe were made from animal skin -
 parchment. The quality of these sheets varied considerably. Like people
@@ -83,11 +76,9 @@ with a hint of yellow. They feel like velvet and make a slight rustling
 sound when you turn the page - suspenseful whispers that teased the
 reader.
 
-Choosing a Writing Support: Damaged Parchment
-=============================================
+## Damaged Parchment
 
 Damaged goods
--------------
 
 'Be careful what you buy in the city of Erfurt: they sell you animals
 skins to which letters will not stick.' This complaint of a medieval
@@ -103,19 +94,16 @@ became a gaping hole. The art of preparing animal skin was to apply just
 the right amount of pressure. Readers did not seem to mind the holes too
 much and scribes usually just wrote around them, or they repaired them.
 
-Choosing a Writing Support: Parchment Offcuts
-=============================================
+## Parchment Offcuts
 
 Yellow sticky note
-------------------
 
 When the scribe cut sheets out of the animal hide, he would normally use
 the best part of the skin - what may be called the 'prime cut'. This
 meant staying clear of the very edge of the skin because these areas
 were very thin and translucent, and deemed unsuitable for books. The
 scribe therefore cut a rim of parchment from the edge of the skin. It
-usually came off in tiny bits and pieces, which he called 'schedulae'
-- strips.
+usually came off in tiny bits and pieces, which he called 'schedulae' - strips.
 
 These odds and ends were thrown in the bin. Sometimes they were taken
 out to be used as scraps, for example for taking notes in the classroom.
@@ -123,11 +111,9 @@ They also served as smaller pages inserted into existing manuscripts.
 Tipped into the quire these tiny pages supplemented the text or added
 notes, like yellow sticky notes.
 
-Choosing a Writing Support: Parchment Palimpsest
-================================================
+## Parchment Palimpsest
 
 Stowaway
---------
 
 What to do when you run out of parchment as a medieval scribe? You can
 look around for something else to write on, such as left-over parchment
@@ -144,11 +130,9 @@ underneath this old text an even older work is buried, like a stowaway.
 With digital photography the lower text can sometimes be made visible
 again, which makes studying these books like digging for treasure.
 
-Choosing a Writing Support: Paper
-=================================
+## Paper
 
 The cheaper alternative
------------------------
 
 Paper became an alternative to parchment in the later Middle Ages. The
 new material was introduced into Europe in the late twelfth century.
@@ -166,11 +150,8 @@ remained expensive: they were a luxury good for people with less money.
 The watermark that is usually found in a paper sheet helps the book
 historian date and localize the paper batch used for a manuscript.
 
-Choosing a Writing Support: Watermark
-=====================================
+## Watermark
 
-Watermark
----------
 
 If you look carefully at a medieval page that is made of paper, you
 notice a shape hidden inside, such as the head of an ox, a bell, or a
@@ -191,7 +172,6 @@ Making Quires and Sheets
 ========================
 
 Cuddly quires
--------------
 
 While the medieval book was made out of sheets, it is the quire that is
 the object's building block. A quire is a small package of folded
@@ -208,11 +188,9 @@ also found up in manuscripts made by chancery clerks, such as account
 books. When you look at the top or bottom of a manuscript you can easily
 spot the individual quires, all cuddled up inside the binding.
 
-Making Quires and Sheets: Bifolium
-==================================
+## Bifolium
 
 Bonding sheets
---------------
 
 Quires are usually made from bifolia (singular: bifolium) or double
 sheets of parchment or paper. To create a bifolium, a sheet is folded in
@@ -230,11 +208,9 @@ cut from the skin or the skin was simply folded, either once (folio),
 twice (quarto), or three times (octavo). Paper double sheets were
 exclusively produced by folding the full sheet.
 
-Making Quires and Sheets: Catchwords and Signatures
-===================================================
+## Catchwords and Signatures
 
 Location, location
-------------------
 
 As with our modern books, medieval manuscripts consist of quires: small
 packages of folded leaves. The scribe would copy the text onto the pages
@@ -254,11 +230,9 @@ of their specific location within the quire. In spite of all this
 emphasis on location, from time to time binders still jumbled up the
 sequence.
 
-Making Quires and Sheets: Quire
-===============================
+## Quire
 
 Building blocks
----------------
 
 Quires, which were produced by bundling together a number of bifolia,
 form the building blocks of the manuscript. How many bifolia the scribe
@@ -279,7 +253,6 @@ Preparing the Page
 ==================
 
 Get set!
---------
 
 Before a single word flowed from his pen, the scribe needed to prepare
 the page. Whether he had opted for a writing supported material, such as
@@ -296,11 +269,10 @@ for a complex layout, with multiple columns and glosses. It was
 important to get it right, however, as a messy layout would produce a
 messy book.
 
-Preparing the Page: Layout
-==========================
+## Layout
+
 
 Puzzle
-------
 
 Before a scribe could begin to fill the quires with text, the layout of
 the page needed to be designed and prepared by means of pricking and
@@ -317,11 +289,10 @@ here. This meant that the scribe had to design each page separately.
 Piecing together the segments of main text and commentary was like
 solving a puzzle.
 
-Preparing the Page: Pricking and Ruling
-=======================================
+## Pricking and Ruling
+
 
 Cobweb
-------
 
 Unlike our notebooks today, medieval paper and parchment sheets did not
 come with ruled lines when you purchased them. A medieval page consisted
@@ -344,7 +315,6 @@ Copying the Text
 ================
 
 Words, words, words
--------------------
 
 Parchment makers prepared skins, scribes cut their pens and filled their
 ink pots, and binders packed their workshops with leather and wood. All
@@ -360,11 +330,10 @@ the shape of letters was constantly changing. Script is thus an
 important historical tool that helps to place stories and information
 into the proper cultural-historical setting.
 
-Copying the Text: Abbreviation
-==============================
+## Abbreviation
+
 
 Abbrev.
--------
 
 From 'app' to 'math': abbreviating words is human. Why write words
 in full if a shorter version will do? Medieval scribes agreed. The
@@ -379,11 +348,10 @@ in those filled with university texts, such as Aristotle. Abbreviations
 may also be problematic. They are only useful, after all, if the reader
 can understand them.
 
-Copying the Text: Script
-========================
+## Script
+
 
 Between the lines
------------------
 
 Medieval script - the handwriting of the scribe - is the material
 representation of a text. An author may have composed the text,
@@ -402,11 +370,10 @@ he made the book. My maker is from Germany, a letter or abbreviation may
 for example say. From time to time scribes would even say so explicitly,
 in a colophon at the end of the book.
 
-Copying the Text: Carolingian Script
-====================================
+## Carolingian Script
+
 
 The unifier
------------
 
 Caroline Minuscule is the primary script of the early Middle Ages.
 Created in the late eighth century, it became the main book script in
@@ -421,11 +388,10 @@ because producers of typeface working for early Italian printers used it
 as a model. In fact, the ubiquitous default font 'Times New Roman' on
 our computers is also based on Caroline Minuscule.
 
-Copying the Text: Cursive Script
-================================
+## Cursive Script
+
 
 Migration of letter forms
--------------------------
 
 Cursive script began its career in the world of administration. Here it
 was used for account books, charters and other administrative texts. The
@@ -444,11 +410,10 @@ literary manuscripts after-hours, in part for an urban clientele who
 paid for their services. These professional users encouraged the
 migration of the script
 
-Copying the Text: Pre-Gothic Script
-===================================
+## Pre-Gothic Script
+
 
 The divider
------------
 
 From the middle of the eleventh century Caroline Minuscule, the dominant
 book script at that time, started to include new letter forms. By 1100
@@ -464,11 +429,10 @@ speeds, while they also varied the actual appearance of certain letter
 forms. Scribes in Germany, for example, were far more conservative than
 their peers in France and England.
 
-Copying the Text: Gothic Script
-===============================
+## Gothic Script
+
 
 Script standards
-----------------
 
 Books written between 1250 and 1600 were copied in a variety of Gothic
 scripts, some of which sport very different features. On the one side of
@@ -484,11 +448,10 @@ palette of scripts. This expansion may have resulted from the
 commercialization of book production - a consequence of the increasing
 demands of readers who purchased their books in small urban shops.
 
-Copying the Text: Punctuation
-=============================
+## Punctuation
+
 
 Quoting, quoting, quoting
--------------------------
 
 Most of modern punctuation was available to medieval scribes, although
 they sometimes used it differently than we do today. In medieval times,
@@ -500,11 +463,10 @@ quotation. When the symbols stop, the quote is over. This practice is a
 good example of the simplicity and effectiveness of medieval
 punctuation.
 
-Copying the Text: Reading Aids
-==============================
+# Reading Aids
+
 
 Navigating the book
--------------------
 
 Medieval scribes recognized that readers may need some help finding
 their way throughout the book or within the texts they contained. Over
@@ -521,11 +483,10 @@ expressed where the reader should start reading. Combined, these three
 are a clever lot, helping the reader navigate the book and text at a
 fast pace.
 
-Copying the Text: Reading Aids Chapter Number
-=============================================
+## Chapter Number
+
 
 Chapter and verse
------------------
 
 While running titles told the reader what text was found on a particular
 page, the chapter number narrowed down its contents even further. As
@@ -542,11 +503,10 @@ the same text for the first time. Many works used in university
 education had an additional tool to define the location within the text
 even more precisely, the paragraph.
 
-Copying the Text: Reading Aids Paragraph
-========================================
+## Paragraph
+
 
 Gallows
--------
 
 Both longer and shorter medieval texts were usually divided into smaller
 sections called paragraphs. In the early days of the paragraph, in the
@@ -563,11 +523,10 @@ that was read out loud in the classroom an which was subsequently
 discussed. The c-symbol indicated the start of such a passage, while the
 colors made it easier to know when to stop reading.
 
-Copying the Text: Reading Aids Rubric
-=====================================
+## Rubric
+
 
 Spoiler
--------
 
 As Spanish bull fighters know, red is an excellent color for attracting
 attention. In manuscripts it was used for the rubric (from the Latin
@@ -584,11 +543,10 @@ efficient manner. If red was not available, scribes would write the
 chapter titles in a different script to make it stand out from the main
 text.
 
-Copying the Text: Reading Aids Running Title
-============================================
+## Running Title
+
 
 You are here
-------------
 
 Running titles have a long history. They are encountered in manuscripts
 made as early as the sixth century. Their main use was to indicate to
@@ -607,11 +565,10 @@ Bible, a popular tool among preachers on the road. Like students, they
 needed to find texts and passages quickly. 'You are here' they seem to
 say, 'Now you do your thing'.
 
-Copying the Text: Scribal Colophon
-==================================
+## Scribal Colophon
+
 
 Give me drink
--------------
 
 The medieval manuscript lacked a title page, which was invented by
 fifteenth-century printers. Without a title page, it can be difficult to
@@ -628,11 +585,10 @@ cases, even for whom the book was made. Some colophons provide a more
 prosaic fact, for example that a scribe is thirsty: 'This work is
 completed, master, now give me a drink!'
 
-Copying the Text: Pen Trials
-============================
+## Pen Trials
+
 
 Testing, one, two, three
-------------------------
 
 Scribes had to constantly adjust the nib of their quill by cutting it
 into the right shape. A deformed nib would not supply an even flow of
@@ -646,11 +602,10 @@ during the testing phase. The most famous pen trial written in Dutch is
 a poem jotted down by a monk who laments how all birds are building
 nests, but that he, alas, is not. Anything goes for a trial.
 
-Copying the Text: Foliation
-===========================
+## Foliation
+
 
 One, two, three
----------------
 
 Until the invention of the page number readers had no means to find a
 particular page in the book quickly. The system medieval scribes came up
@@ -669,7 +624,6 @@ Correcting the Text
 ===================
 
 Flaws be gone!
---------------
 
 While a Bible may take a year to produce, a mistake was made in a
 split-second. Even scribes who carefully copied their text, a few words
@@ -691,7 +645,6 @@ Correcting the Text: Erasure
 ============================
 
 Mistake be gone!
-----------------
 
 How did a medieval scribe correct a mistake? If you forgot to copy a
 word, you could simply insert it in between the lines of the completed
@@ -706,11 +659,10 @@ see the outlines of the original text on the parchment, much like in a
 palimpsest. Moreover, the surface of the spots usually feels slightly
 softer, which is gives away that the scribe intervened with a knife.
 
-Copying the Text: Insertion
-===========================
+## Insertion
+
 
 Insert \[text\] here
---------------------
 
 When the medieval scribe had finished his work, he or another scribe
 usually went through the entire manuscript to make sure he had made no
@@ -722,11 +674,10 @@ sentence or paragraph, he could simply amend it by copying the omitted
 text nearby. Readers would also insert missing words themselves, if the
 scribe had failed to do so.
 
-Copying the Text: Lacuna
-========================
+## Lacuna
+
 
 Mind the gap!
--------------
 
 Most flaws scribes encountered when they corrected a manuscript could
 and would be fixed immediately. Others, however, required some time. The
@@ -745,11 +696,10 @@ particularly common in autograph copies. Translators, for example, often
 needed some time to find equivalents for unusual words in the original
 language.
 
-Copying the Text: Signe de Revoi
-================================
+## Signe de Revoi
+
 
 X marks the spot
-----------------
 
 When a scribe noticed that text was missing he usually inserted the
 missing words next or over the place where they were needed. The reader
@@ -767,7 +717,6 @@ Decorating the Book
 ===================
 
 Colorful books
---------------
 
 When the quires were filled with text, the rubrics were in place, and
 the scribe had corrected his work, it was time for the finishing
@@ -782,11 +731,10 @@ end of the scale is illumination: often sophisticates little paintings
 that included color and often gold. While decorated books stand out
 among their other cousins, on the whole they were not very common.
 
-Decorating the Book: Doodles
-============================
+## Doodles
+
 
 Doodles
--------
 
 Doodles are little bundles of fun. Usually drawn with a pen, they often
 appear to be the result of a scribe trying out his pen. In such cases it
@@ -799,11 +747,10 @@ Doodles often incorporate such native elements of the page. Various
 doodles made by children also survive in schoolbooks, which shows that
 doodling may also be a universal sign of boredom in the classroom.
 
-Decorating the Book: Gilding
-============================
+## Gilding
+
 
 Dazzling
---------
 
 Some medieval readers preferred pretty pictures and shiny decoration in
 their books. Not only did the sparkling page appeal to them, it also
@@ -816,11 +763,10 @@ appended directly to the surface of the parchment, but that they were
 stretched over little 'hills' of plaster. This way the gold would
 catch the light from different angles, maximizing its dazzling effect.
 
-Decorating the Book: Historiated Initial
-========================================
+## Historiated Initial
+
 
 One-letter stories
-------------------
 
 Normally, letters work together to form words that present a story. From
 time to time, however, we encounter a letter that contains a narrative
@@ -830,11 +776,10 @@ The meaning of some historiated initials can only be understood by
 reading the story they initiate. Miniatures contained even more
 extensive narratives.
 
-Decorating the Book: Miniatures
-===============================
+## Miniatures
+
 
 Mini paintings
---------------
 
 Miniatures represent the most elaborate decoration on the medieval page.
 They encompass scenes for which a significant amount of space - and
@@ -851,11 +796,10 @@ do his thing. Miniatures are in effect mini paintings executed by
 well-known artists: they added significantly to the bill of the reader
 who commissioned a book.
 
-Decorating the Book: Penwork Flourishing
-========================================
+## Penwork Flourishing
+
 
 Drunk decoration
-----------------
 
 In medieval times, penwork flourishing was the quickest and easiest way
 to add some color to the page. This style of decoration typically
@@ -875,7 +819,6 @@ Binding the Book
 ================
 
 Packing it up
--------------
 
 All that was left when the book was copied, corrected and decorated, was
 to bind the quires together. If a book was made commercially, the client
@@ -894,11 +837,10 @@ Brussels. Very rare are so-called 'treasure bindings', which covered
 books, that needed to look handsome and rich, such as gifts or a Gospel
 Book used for altar display.
 
-Binding the Book: Fragments
-===========================
+## Fragments
+
 
 Stowaway
---------
 
 When Gutenberg invented moving type, handwritten books quickly went out
 of fashion. Many of these books became the victims of recycling at the
@@ -917,11 +859,10 @@ early-modern bindings. While of modest size, the stowaways form
 'blips' on the map of Europe, showing that a certain text was
 available at a certain moment and location.
 
-Binding the Book: Boards
-========================
+## Boards
+
 
 Woodwork
---------
 
 Medieval manuscripts, even small ones, can be surprisingly heavy. Giant
 Bibles, large volumes that can stand half a meter tall, weigh as much as
@@ -937,11 +878,10 @@ because the boards were subsequently covered with leather (which was
 often fitted with decorations. Thousands of pieces of medieval trees are
 hidden inside book bindings, like a shelved mini forest.
 
-Binding the Book: Bosses and Clasps
-===================================
+## Bosses and Clasps
+
 
 Add-ons
--------
 
 Many medieval books were a joy to look at even when they were closed.
 Various shiny 'add-ons' were drilled in and attached to the wooden
@@ -958,11 +898,10 @@ line patterns, and at times even a painted scene. Such decorative
 elements on the outside of the binding became particularly common near
 the end of the Middle Ages.
 
-Binding the Book: Limp Binding
-==============================
+## Limp Binding
+
 
 Wrapper
--------
 
 The majority of surviving medieval bindings made use of wooden boards
 which helped to protect the book and to keep the quires in place. The
@@ -983,8 +922,6 @@ popular among medieval students.
 Using the Book
 ==============
 
-Using the book
---------------
 
 Most medieval bookstores were empty because books were too expensive to
 have in stock. Instead, each customer would have a long talk with the
@@ -998,11 +935,10 @@ favorite chapters, while nota signs and maniculae in the margin marked
 important passages. Glosses and slips with notes were inserted where the
 text needed clarification.
 
-Using the Book: Bookmark
-========================
+## Bookmark
+
 
 Fossilized taste
-----------------
 
 The bookmark guided the reader to the beginning of a favorite chapter or
 a significant section of the book. Flowers or leaves, which were
@@ -1017,11 +953,10 @@ are interesting to book historians because they show what texts of
 passages were enjoyed by individuals that lived hundreds of years ago.
 They are the fossilized remains of medieval literary taste.
 
-Using the Book: Gloss
-=====================
+## Gloss
+
 
 Add-on
-------
 
 From the moment we learn to read as a child we are told not to write in
 our books. Still, we often do, especially when we use the book for
@@ -1032,11 +967,10 @@ permanent ink. In fact, it is hard to point out a manuscript that does
 not contain any such add-ons. Some of these notes (or glosses) were
 extensive, and the scribe had to extend the margins to accommodate them.
 
-Using the Book: Manicula
-========================
+## Manicula
+
 
 Helping Hand
-------------
 
 With a nota-sign the reader expressed that a passage was noteworthy or
 deserved a closer read. The manicula (Latin for 'little hand') was
@@ -1050,11 +984,10 @@ maniculae show us what information were deemed important or relevant to
 an individual long ago. In that sense they lend a helping hand to the
 book historian as much as they did to the medieval reader.
 
-Using the Book: Nota
-====================
+## Nota
+
 
 Note to self
-------------
 
 While the bookmark guided the reader to an important chapter or text,
 the nota-sign marked a significant passage or sentence on the page. From
@@ -1069,11 +1002,10 @@ letters are reshuffled and stretched so as to form a unique symbol. This
 was likely done to distinguish a reader's passages from those marked by
 other users of the book, such as his fellow brethren in the monastery.
 
-Using the Book: Notes
-=====================
+## Notes
+
 
 Sticky note
------------
 
 Readers had the ability to mark important passages with a nota-sign or a
 manicula. When a passage prompted a response or an explanation, the
