@@ -2,8 +2,8 @@
 layout: single-ms
 classes: wide
 ---
-{% assign this_route = site.routes | where:"identifier",page.route %}
-<header>{% for route in this_route %}{{ route.title }}{% endfor %}</header>
+{% assign this_route = site.routes | where:"identifier",page.route | first %}
+<header class="route-title"><a href="{{ this_route.url | relative_url }}" rel="up">{{ this_route.title }}</a></header>
 <nav class="ms-title">
     <div id="prev"><a href="{{ page.previous.url | relative_url }}" rel="prev" title="Previous manuscript">☜</a></div>
     <h1>{{ page.title }}</h1>
