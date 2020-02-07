@@ -16,26 +16,26 @@ dmc:
 
   - title: "Routes"
     children:
-      - title: Dutch
-        url: /routes/dutch/
-      - title: Classics
-        url: /routes/classics/
-      - title: History
-        url: /routes/history/
-      - title: Books and Digital Media Studies
-        url: /routes/bdms/
+      # - title: Dutch
+      #   url: /routes/dutch/
+      # - title: Classics
+      #   url: /routes/classics/
+      # - title: History
+      #   url: /routes/history/
+      # - title: Books and Digital Media Studies
+      #   url: /routes/bdms/
       - title: Religion and Devotion
         url: /routes/religion-devotion/
-      - title: Intellectual Culture
-        url: /routes/intellectual-culture/
+      # - title: Intellectual Culture
+      #   url: /routes/intellectual-culture/
       - title: Liberal Arts and Education
         url: /routes/liberal-arts-education/
       - title: DIY & Manuals
         url: /routes/diy-manuals/
-      - title: Law
-        url: /routes/law/
-      - title: Incunables
-        url: /routes/incunables/
+      # - title: Law
+      #   url: /routes/law/
+      # - title: Incunables
+      #   url: /routes/incunables/
 
   - title: "Overviews"
     children:
