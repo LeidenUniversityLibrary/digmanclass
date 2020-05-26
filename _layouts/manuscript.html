@@ -3,6 +3,7 @@ layout: single-ms
 classes: wide
 ---
 {% assign this_route = site.routes | where:"identifier",page.route | first %}
+{% assign this_ms = site.data.handles | where:"signatuur",page.shelfmark | first %}
 <header class="route-title"><a href="{{ this_route.url | relative_url }}" rel="up">{{ this_route.title }}</a></header>
 <nav class="ms-title">
     <div id="prev"><a href="{{ page.previous.url | relative_url }}" rel="prev" title="Previous manuscript">☜</a></div>
@@ -11,7 +12,7 @@ classes: wide
 </nav>
 <section id="sect-viewer">
     <div id="viewer"></div>
-    <div id="ms-identification"><span class="shelfmark">{% if page.handle %}<a href="{{ page.handle }}" title="See {{ page.shelfmark }} in Digital Collections">{{ page.shelfmark }}</a>{% else %}{{ page.shelfmark }}{% endif %}</span> ({{ page.origin }}, {{ page.ms_date }}):
+    <div id="ms-identification"><span class="shelfmark"><a href="{{ this_ms.handle }}" title="See {{ page.shelfmark }} in Digital Collections">{{ page.shelfmark }}</a></span> ({{ page.origin }}, {{ page.ms_date }}):
         {% if page.ms_creator %}{{ page.ms_creator }}, {% endif %}
         <em>{{ page.ms_title }}</em> ({{ page.ms_title_en }}), {{ page.material }}, {{ page.pages }}, {{ page.dimensions }}, {{ page.columns }}, {{ page.lines }}.</div>
     <div id="description" itemprop="text">{{ content }}</div>
