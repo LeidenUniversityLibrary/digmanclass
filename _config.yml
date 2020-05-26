@@ -29,6 +29,7 @@ collections:
   manuscripts:
     output: true
     permalink: /:collection/:path/
+    sort_by: route
 
 defaults:
   - scope:
