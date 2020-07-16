@@ -2,7 +2,7 @@
 layout: manuscript
 handle: https://hdl.handle.net/1887.1/item:1679348
 route: religion-devotion
-manifest: "https://transcription.digitalscholarship.nl/iiif/5/manifest"
+
 title: "The City of God"
 shelfmark: BPL 4
 origin: "Italy"

@@ -1,7 +1,7 @@
 ---
 layout: manuscript
 route: liberal-arts-education
-manifest: https://transcription.digitalscholarship.nl/iiif/5/manifest
+
 title: Finger gestures
 shelfmark: BPL 191 BD
 origin: "Germany"

@@ -1,7 +1,7 @@
 ---
 layout: manuscript
 route: diy-manuals
-manifest: https://transcription.digitalscholarship.nl/iiif/5/manifest
+
 title: Beneath the Binding
 shelfmark: VCF 20
 origin: "Germany"
