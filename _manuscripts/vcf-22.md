@@ -1,7 +1,7 @@
 ---
 layout: manuscript
 route: diy-manuals
-manifest: https://transcription.digitalscholarship.nl/iiif/5/manifest
+
 title: Changing up the script
 shelfmark: VCF 22
 origin: "Germany"

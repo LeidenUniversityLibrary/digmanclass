@@ -1,7 +1,7 @@
 ---
 layout: manuscript
 route: diy-manuals
-manifest: https://transcription.digitalscholarship.nl/iiif/5/manifest
+
 title: Medicine at the court
 shelfmark: VCQ 13
 origin: "Germany"

@@ -1,7 +1,7 @@
 ---
 layout: manuscript
 route: diy-manuals
-manifest: https://transcription.digitalscholarship.nl/iiif/5/manifest
+
 title: A secret recipe
 shelfmark: VCF 18
 origin: "Germany"

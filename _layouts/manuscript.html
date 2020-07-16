@@ -42,12 +42,12 @@ classes: wide
         mir = Mirador({
         id: "viewer",
         buildPath: "https://lab.library.universiteitleiden.nl/mirador/2.7.0/",
-        data: [{manifestUri: "{{ page.manifest }}", location: "Leiden University Library"}],
+        data: [{manifestUri: "{{ this_ms.manifest }}", location: "Leiden University Library"}],
         mainMenuSettings: {
             show: false
         },
         windowObjects: [{
-            loadedManifest: "{{ page.manifest }}",
+            loadedManifest: "{{ this_ms.manifest }}",
             displayLayout: false,
             bottomPanel: false,
             bottomPanelAvailable: false,

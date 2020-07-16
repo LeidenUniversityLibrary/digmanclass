@@ -1,7 +1,7 @@
 ---
 layout: manuscript
 route: liberal-arts-education
-manifest: https://transcription.digitalscholarship.nl/iiif/5/manifest
+
 title: Practical rhetorical exercises
 shelfmark: GRO 6
 origin: "Florence, Italy"

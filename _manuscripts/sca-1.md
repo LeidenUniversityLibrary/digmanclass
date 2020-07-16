@@ -1,7 +1,7 @@
 ---
 layout: manuscript
 route: liberal-arts-education
-manifest: https://transcription.digitalscholarship.nl/iiif/5/manifest
+
 title: A medieval calculator
 shelfmark: SCA 1
 origin: "France"
