@@ -1,5 +1,5 @@
 main:
-  - title: About
+  - title: "Colophon"
     url: /about/
 
 dmc:
@@ -7,12 +7,10 @@ dmc:
     children:
       - title: "Homepage"
         url: /
-      - title: "About"
+      - title: "Colophon"
         url: /about/
       - title: "Glossary / Quill"
         url: /glossary/
-      - title: Colophon
-        url: /colophon/
 
   - title: "Routes"
     children:
