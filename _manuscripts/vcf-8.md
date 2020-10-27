@@ -21,8 +21,7 @@ questions:
 "***Praesentem monstrat quaelibet herba Deum***" (Any blade of grass
 points to the presence of God). This quote from poet [Johannes
 Stigelius](https://de.wikipedia.org/wiki/Johann_Stigel) (1515-1562)
-begins this alchemical manuscript from 1585 (see "*anno MDLXXXV"* fol.
-1r). The quote possibly served as a reminder to the reader that the
+begins this alchemical manuscript from 1585 (see "*anno MDLXXXV"* fol. 1r). The quote possibly served as a reminder to the reader that the
 various (al)chemical recipes in this manuscript should be used to honor
 God and not for personal profit (see also VCF 11). Not every text in
 this manuscript is about alchemy, though. The manuscript starts with a
@@ -33,9 +32,8 @@ Syrian satirist and rhetorician. Another text Lucian is known for is his
 translated into Latin in 1518.
 
 The annotations in this manuscript are minimal. Someone, either the
-scribe or one of the readers, tipped in a small piece of paper (now fol.
-330) in order to add a diagram to a text on the *practica abbatis* (The
-monk's practica) by pseudo-Aquinas.[^1] Fol. 253r - 255v contains a text on
+scribe or one of the readers, tipped in a small piece of paper (now fol. 330) in order to add a diagram to a text on the *practica abbatis* (The
+monk's practica) by pseudo-Aquinas.[^1] Fols. 253r - 255v contains a text on
 a formula that was used by king Philip IV of France.
 
 [^1]: [Using the Book: Notes]({{ "/glossary/#notes" | relative_url }})

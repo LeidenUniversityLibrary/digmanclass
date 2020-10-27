@@ -39,7 +39,7 @@ Magnus, a German bishop and scholar, wrote about many topics, including
 logic, theology, geography, astrology, and alchemy. The manuscript
 contains annotations and drawings of [laboratory
 glassware](https://en.wikipedia.org/wiki/Laboratory_glassware) and other
-chemical equipment that were created by readers. Fols. 152r-154r
+chemical equipment that were created by readers. Fols. 152r - 154r
 contain lists of alchemical symbols (see also VCF 17). One of the
 readers also uses these symbols to annotate certain passages.
 

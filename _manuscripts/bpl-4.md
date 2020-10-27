@@ -43,8 +43,7 @@ marks on the flyleaves that this manuscript belonged to the Convent of
 St. Clara in Amsterdam around the year 1500, where it remained until
 1590 when the sisters of St. Clara were expelled from the city. After
 their expulsion, the manuscript came in the possession of Christophorus
-Dibuadius (*c*.1578-1621), a Danish scholar studying in Leiden. In fol.
-139v you can read the exact date that the scribe finished copying the
+Dibuadius (*c*.1578-1621), a Danish scholar studying in Leiden. In fol. 139v you can read the exact date that the scribe finished copying the
 text.
 
 [^1]: [Decorating the Book]({{ "/glossary/#decorating-the-book" | relative_url }})

@@ -30,7 +30,7 @@ never finished.
 
 This composite manuscript consists of eight parts. As the leaves of the
 parts were being trimmed to the same size, the commentary of the first
-part (fol. 1r - fol. 36v) was partly cut off. As a result, only the
+part (fols. 1r - 36v) was partly cut off. As a result, only the
 first lines of the commentary are still visible. In the early fifteenth
 century the complete manuscript belonged to the Convent of St. James in
 Liege. They already owned the seventh part, containing a commentary on

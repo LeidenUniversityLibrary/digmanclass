@@ -33,9 +33,9 @@ Bacon](https://en.wikipedia.org/wiki/Roger_Bacon) often cited from this
 text and has added his own extensive glosses. In 1266 Jacob van Maerlant
 translated the text into Middle Dutch (see *De heimelijkheid der heimelijkheden* LTK 169).
 
-This manuscript contains part of the *Secretum secretorum* (fol. 20-41)
+This manuscript contains part of the *Secretum secretorum* (fols. 20 - 41)
 and various other alchemical treatises. It is copied by six different
-scribes and written in German, Latin, and Greek. Fols. 144v- 145v
+scribes and written in German, Latin, and Greek. Fols. 144v - 145v
 contains horoscopes from January 9th, 1506 and January 12th, 1507.
 Just as many of the other manuscripts in this theme, this one was owned
 by Sebald Schwertzer, [Queen Christina of

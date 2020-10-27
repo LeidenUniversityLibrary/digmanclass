@@ -34,13 +34,12 @@ This manuscript contains several texts by Paracelsus on both medical and
 alchemical topics. It also contains a treatise on the Philosopher's
 Stone by [Isaac
 Hollandius](https://de.wikipedia.org/wiki/Johann_Isaac_Hollandus) (see
-VCQ 37) and short passages on alchemical recipes and experiments. Fol.
-9v, for example, describes a remedy to treat snake bites. Fol. 10r
+VCQ 37) and short passages on alchemical recipes and experiments. Fol. 9v, for example, describes a remedy to treat snake bites. Fol. 10r
 contains an improved recipe against epilepsy. Until the nineteenth
 century, this manuscript had a parchment cover[^1] made from an official
 document from 1473.
 
-The texts were written by five different scribes. Scribe A (fols. 1-56,
+The texts were written by five different scribes. Scribe A (fols. 1 - 56,
 94-100) is particularly hard to read because of the thick pen-strokes
 and the ink that has leaked through to the other side of the leaves.
 

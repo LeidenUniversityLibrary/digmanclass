@@ -36,8 +36,8 @@ the letters VCF belonged to this collection.
 
 This manuscript, which was copied by two different scribes, contains
 treatises on alchemy and medical recipes, and includes several letters.
-The name of the scribe who wrote fols. 1r-166v is Hans Meissel, who also
-copied VCF 6, VCF 14 and VCF 21. The text on fols. 176r-178v is about
+The name of the scribe who wrote fols. 1r - 166v is Hans Meissel, who also
+copied VCF 6, VCF 14 and VCF 21. The text on fols. 176r - 178v is about
 necromancy: a practice that teaches communication with the deceased as a
 means to foretell the future or discover hidden knowledge. Many people
 regarded necromancy as black magic and not as a real science.

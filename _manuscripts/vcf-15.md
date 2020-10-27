@@ -39,7 +39,7 @@ From fol. 242r onwards the scribe has added many drawings of the various
 laboratory glassware items used in chemical experiments. There are also
 drawings of complicated constructions that look like small buildings
 (see fol. 253v). This manuscript was copied by two scribes. The second
-scribe (who copied fols. 139-345) wrote down his initials on fol. 345v:
+scribe (who copied fols. 139 - 345) wrote down his initials on fol. 345v:
 SPD.
 
 {% cite boecodices --locator 49-51 %}
