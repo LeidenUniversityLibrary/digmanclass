@@ -4,6 +4,7 @@ route: diy-manuals
 
 title: Secret symbols
 shelfmark: VCF 17
+sort_as: VCF 0017
 origin: "Germany"
 ms_date: "1575-1600"
 ms_title: Various alchemical treatises

@@ -5,6 +5,7 @@ route: religion-devotion
 
 title: "The City of God"
 shelfmark: BPL 4
+sort_as: BPL 0004
 origin: "Italy"
 ms_date: "1453"
 ms_creator: Augustine

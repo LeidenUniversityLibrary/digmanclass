@@ -4,6 +4,7 @@ route: liberal-arts-education
 
 title: Practical rhetorical exercises
 shelfmark: GRO 6
+sort_as: GRO 0006
 origin: "Florence, Italy"
 ms_date: "1300-1400"
 ms_creator: Cicero

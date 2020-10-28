@@ -4,6 +4,7 @@ route: liberal-arts-education
 
 title: A medieval dictionary
 shelfmark: BPL 17
+sort_as: BPL 0017
 origin: "France?"
 ms_date: "c. 1200"
 ms_title: Elementarium

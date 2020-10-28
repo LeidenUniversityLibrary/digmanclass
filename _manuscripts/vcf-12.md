@@ -4,6 +4,7 @@ route: diy-manuals
 
 title: The marvelous doctor
 shelfmark: VCF 12
+sort_as: VCF 0012
 origin: "Germany"
 ms_date: "1575"
 ms_title: Omnia Germanice

@@ -4,6 +4,7 @@ route: diy-manuals
 
 title: Changing up the script
 shelfmark: VCF 22
+sort_as: VCF 0022
 origin: "Germany"
 ms_date: "1586"
 ms_title: Alchimia et remediorum

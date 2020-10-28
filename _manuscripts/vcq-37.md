@@ -4,6 +4,7 @@ route: diy-manuals
 
 title: Father and son
 shelfmark: VCQ 37
+sort_as: VCQ 0037
 origin: "Netherlands?"
 ms_date: "1500-1550?"
 ms_creator: Isaac Hollandus

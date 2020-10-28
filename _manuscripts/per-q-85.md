@@ -4,6 +4,7 @@ route: liberal-arts-education
 
 title: A Modern Example
 shelfmark: PER Q 85
+sort_as: PER Q 0085
 origin: "Netherlands"
 ms_date: "1760"
 ms_creator: Adhelmus

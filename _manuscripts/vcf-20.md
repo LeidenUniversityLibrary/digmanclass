@@ -4,6 +4,7 @@ route: diy-manuals
 
 title: Beneath the Binding
 shelfmark: VCF 20
+sort_as: VCF 0020
 origin: "Germany"
 ms_date: "1574"
 ms_title: Various works by Raymundus Lullus

@@ -4,6 +4,7 @@ route: diy-manuals
 
 title: A friendly reminder
 shelfmark: VCF 8
+sort_as: VCF 0008
 origin: "Germany"
 ms_date: "1585"
 ms_title: Annotationes Magistri Pertissimi

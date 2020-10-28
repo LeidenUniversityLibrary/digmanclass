@@ -4,6 +4,7 @@ route: liberal-arts-education
 
 title: Testing the Pen
 shelfmark: BPL 139 B
+sort_as: BPL 0139 B
 origin: "Fleury, France"
 ms_date: "900-1100"
 ms_creator: Abbo van Fleury

@@ -4,6 +4,7 @@ route: diy-manuals
 
 title: The philosopher's stone
 shelfmark: VCF 6
+sort_as: VCF 0006
 origin: "Dresden, Germany"
 ms_date: "1575-1600?"
 ms_title: Exorcisms

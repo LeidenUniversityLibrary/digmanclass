@@ -4,6 +4,7 @@ route: liberal-arts-education
 
 title: Honorable Boys
 shelfmark: BPL 91
+sort_as: BPL 0091
 origin: "Italy"
 ms_date: "1100-1200"
 ms_creator: Priscianus

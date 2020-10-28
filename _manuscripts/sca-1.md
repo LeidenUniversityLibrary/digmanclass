@@ -4,6 +4,7 @@ route: liberal-arts-education
 
 title: A medieval calculator
 shelfmark: SCA 1
+sort_as: SCA 0001
 origin: "France"
 ms_date: "1400"
 ms_creator: Adelard of Bath

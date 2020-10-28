@@ -4,6 +4,7 @@ route: diy-manuals
 
 title: Planets, metals and elements
 shelfmark: VCF 21
+sort_as: VCF 0021
 origin: "Germany"
 ms_date: "1572-1600"
 ms_title: Lapide Philosophorum

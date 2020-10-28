@@ -4,6 +4,7 @@ route: diy-manuals
 
 title: The secret of secrets
 shelfmark: VCF 23
+sort_as: VCF 0023
 origin: "Germany"
 ms_date: "1568-1600"
 ms_creator: Aristotle

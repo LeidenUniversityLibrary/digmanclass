@@ -4,6 +4,7 @@ route: diy-manuals
 
 title: The most precious gift of God
 shelfmark: VCF 15
+sort_as: VCF 0015
 origin: "Germany"
 ms_date: "1575-1600"
 ms_title: Pretiosissimum Donum Dei

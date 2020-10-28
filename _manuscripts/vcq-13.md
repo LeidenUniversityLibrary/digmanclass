@@ -4,6 +4,7 @@ route: diy-manuals
 
 title: Medicine at the court
 shelfmark: VCQ 13
+sort_as: VCQ 0013
 origin: "Germany"
 ms_date: "1506-1526?"
 ms_title: Descriptiones Processum Diversorum Chymicorum

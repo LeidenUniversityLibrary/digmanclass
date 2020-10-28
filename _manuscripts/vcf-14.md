@@ -4,6 +4,7 @@ route: diy-manuals
 
 title: Magic and spirits
 shelfmark: VCF 14
+sort_as: VCF 0014
 origin: "Germany"
 ms_date: "1577-1600"
 ms_title: Explanatio artis cabalisticae

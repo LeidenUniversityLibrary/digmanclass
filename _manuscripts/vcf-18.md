@@ -4,6 +4,7 @@ route: diy-manuals
 
 title: A secret recipe
 shelfmark: VCF 18
+sort_as: VCF 0018
 origin: "Germany"
 ms_date: "1575-1586"
 ms_creator: Albertus Magnus

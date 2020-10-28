@@ -4,6 +4,7 @@ route: liberal-arts-education
 
 title: Miscalculation!
 shelfmark: BPL 191 E
+sort_as: BPL 0191 E
 origin: "Germany and Italy"
 ms_date: "1100-1200"
 ms_creator: Reinherus

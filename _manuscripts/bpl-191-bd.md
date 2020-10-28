@@ -4,6 +4,7 @@ route: liberal-arts-education
 
 title: Finger gestures
 shelfmark: BPL 191 BD
+sort_as: BPL 0191 BD
 origin: "Germany"
 ms_date: "1100-1150"
 ms_creator: Hrabanus Maurus

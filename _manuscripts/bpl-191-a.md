@@ -4,6 +4,7 @@ route: liberal-arts-education
 
 title: Face to Face with Statius
 shelfmark: BPL 191 A
+sort_as: BPL 0191 A
 origin: "France/Southern Netherlands"
 ms_date: "1100-1400"
 ms_creator: John of God

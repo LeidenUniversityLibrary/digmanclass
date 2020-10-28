@@ -4,6 +4,7 @@ route: liberal-arts-education
 
 title: A real classic
 shelfmark: BPL 43
+sort_as: BPL 0043
 origin: "France?"
 ms_date: "1100-1200"
 ms_creator: Vergilius

@@ -4,6 +4,7 @@ route: diy-manuals
 
 title: A royal owner
 shelfmark: VCF 13
+sort_as: VCF 0013
 origin: "Germany"
 ms_date: "1575-1600"
 ms_title: Tractatatulus de lapide philosophorum

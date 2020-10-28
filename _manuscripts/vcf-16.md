@@ -4,6 +4,7 @@ route: diy-manuals
 
 title: A medical pioneer
 shelfmark: VCF 16
+sort_as: VCF 0016
 origin: "Germany"
 ms_date: "1550-1600"
 ms_creator: Theophrastus Paracelsus
