@@ -20,9 +20,9 @@ questions:
 ---
 
 This manuscript was completed by the scribe Peter Jünger on December
-8th, 1586. We know this from the colophon on fol. 152v where he wrote
+8th, 1586. We know this from the colophon on fol. <span data-fol="152v" class="fref">152v</span> where he wrote
 "*Laus deo Gloria* (Praise and Glory to God) *Anno Christi 1568 8 Decembris*." Jünger used two kinds of script to copy the texts in the
-manuscript: Gothic cursive and Humanistic cursive. On fol. 30v you can
+manuscript: Gothic cursive and Humanistic cursive. On fol. <span data-fol="30v" class="fref">30v</span> you can
 see the transition from Gothic to Humanistic. One of the texts in this
 manuscript is *Alchemia et remediorum liber* (The Book of Alchemy and
 Medicine). The manuscript also contains a text on wine, beer, and

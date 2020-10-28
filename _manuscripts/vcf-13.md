@@ -23,7 +23,7 @@ Manuscripts were often used by a variety of readers. The first reader of
 this manuscript, the person for whom the manuscript was produced, was
 [Sebald Schwertzer](https://de.wikipedia.org/wiki/Sebalt_Schwertzer)
 (1552-1598), a German merchant and alchemist who worked at the court of
-Dresden. We know this because he wrote his name on fol. 57r. In the
+Dresden. We know this because he wrote his name on fol. <span data-fol="57r" class="fref">57r</span>. In the
 beginning of the seventeenth century this manuscript came into the
 possession of [Christina, Queen of
 Sweden](https://en.wikipedia.org/wiki/Christina,_Queen_of_Sweden)
@@ -36,8 +36,8 @@ the letters VCF belonged to this collection.
 
 This manuscript, which was copied by two different scribes, contains
 treatises on alchemy and medical recipes, and includes several letters.
-The name of the scribe who wrote fols. 1r - 166v is Hans Meissel, who also
-copied VCF 6, VCF 14 and VCF 21. The text on fols. 176r - 178v is about
+The name of the scribe who wrote fols. <span data-fol="1r" class="fref">1r</span> - <span data-fol="166v" class="fref">166v</span> is Hans Meissel, who also
+copied VCF 6, VCF 14 and VCF 21. The text on fols. <span data-fol="176r" class="fref">176r</span> - <span data-fol="178v" class="fref">178v</span> is about
 necromancy: a practice that teaches communication with the deceased as a
 means to foretell the future or discover hidden knowledge. Many people
 regarded necromancy as black magic and not as a real science.

@@ -25,7 +25,7 @@ aided by the calculators on their cellphones. However, during the Middle
 Ages finger counting was used by even the most experienced
 mathematicians. People were able to count to a thousand, just by using
 their two hands. The numbers 1-99 were counted on the left hand, while
-the numbers 100-9999 were counted on the right. Fol. 4r in this
+the numbers 100-9999 were counted on the right. Fol. <span data-fol="4r" class="fref">4r</span> in this
 manuscript depicts an illustration of how to count on your fingers
 according to the method used at the time.
 

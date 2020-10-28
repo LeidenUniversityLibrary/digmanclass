@@ -22,7 +22,7 @@ questions:
 The margins of this twelfth-century manuscript contain many glosses.
 They were added in the twelfth, thirteenth, and fourteenth-centuries,
 and show how this manuscript passed from one owner to the next, several
-of whom wrote their names on fol. 175v. The note at the bottom of the
+of whom wrote their names on fol. <span data-fol="175v" class="fref">175v</span>. The note at the bottom of the
 page reads that this manuscript belonged to the "commune bonorum
 puerorum", the "society of honorable boys", in the fourteenth century.
 The boys of this society probably used this manuscript to study
