@@ -37,5 +37,5 @@ dmc:
 
   - title: "Overviews"
     children:
-      - title: Overview of manuscripts
+      - title: Manuscripts by shelfmark
         url: /manuscripts/
