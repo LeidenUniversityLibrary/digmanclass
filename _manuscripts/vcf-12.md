@@ -4,6 +4,7 @@ route: diy-manuals
 
 title: The marvelous doctor
 shelfmark: VCF 12
+sort_as: VCF 0012
 origin: "Germany"
 ms_date: "1575"
 ms_title: Omnia Germanice
@@ -38,9 +39,9 @@ significant Bohemian noble family. In 1609 he added an
 flyleaf of the manuscript to indicate his ownership. Other notable
 owners of this manuscript were lay alchemist Lorentz Zatzer (whose
 initials are slightly visible on the cover of the manuscript) and [Isaac
-Vossius](https://en.wikipedia.org/wiki/Isaac_Vossius) (fol. 1r). There
-is an additional name that was crossed out on fol. 195v. These owners --
-and perhaps others -- added several notes in the margins. From fol. 131v
+Vossius](https://en.wikipedia.org/wiki/Isaac_Vossius) (fol. <span data-fol="1r" class="fref">1r</span>). There
+is an additional name that was crossed out on fol. <span data-fol="195v" class="fref">195v</span>. These owners --
+and perhaps others -- added several notes in the margins. From fol. <span data-fol="131v" class="fref">131v</span>
 onwards you can see many maniculae[^1]; drawings of tiny hands used to
 point to relevant passages in the text.
 

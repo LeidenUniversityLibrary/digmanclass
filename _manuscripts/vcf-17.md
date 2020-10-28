@@ -4,6 +4,7 @@ route: diy-manuals
 
 title: Secret symbols
 shelfmark: VCF 17
+sort_as: VCF 0017
 origin: "Germany"
 ms_date: "1575-1600"
 ms_title: Various alchemical treatises
@@ -32,9 +33,11 @@ use of symbols.
 This sixteenth-century manuscript starts with a list of symbols and
 their explanations. Some of these symbols are used throughout the book.
 The manuscript contains various alchemical texts, such as the tenth
-volume of [Paracelsus'](https://en.wikipedia.org/wiki/Paracelsus) *De gradationibus* (p.13-22) and several recipes.
+volume of [Paracelsus'](https://en.wikipedia.org/wiki/Paracelsus) *De gradationibus* (pp.
+<span data-fol="13" class="fref">13</span> - <span data-fol="22" class="fref">22</span>) and several recipes.
 
-The text on altimetry between pp. 209-217 was added later on. The
+The text on altimetry between pp. <span data-fol="209" class="fref">209</span> -
+<span data-fol="217" class="fref">217</span> was added later on. The
 elaborate drawings in this text illustrate how to measure various
 heights.
 

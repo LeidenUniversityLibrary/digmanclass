@@ -4,6 +4,7 @@ route: liberal-arts-education
 
 title: Miscalculation!
 shelfmark: BPL 191 E
+sort_as: BPL 0191 E
 origin: "Germany and Italy"
 ms_date: "1100-1200"
 ms_creator: Reinherus
@@ -35,7 +36,7 @@ It also contains excerpts on grammar and astronomy, glosses on the
 Bible, and letters from [Ivo of Chartres](https://en.wikipedia.org/wiki/Ivo_of_Chartres). The different
 texts were bound together some time later, resulting in a variety of
 lay-outs throughout the manuscript. In the margins of the first part of
-this manuscript (fol. 1r - fol. 60v) you can see unusual marks, known as
+this manuscript (fols. <span data-fol="1r" class="fref">1r</span> - <span data-fol="60v" class="fref">60v</span>) you can see unusual marks, known as
 *nota bene*[^1] markings, on almost every leaf. If you look closely you
 can see that each drawing is a monogram of the letters n, o, t, and a.
 Nota bene markings vary in appearance from page to page.

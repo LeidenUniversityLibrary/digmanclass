@@ -37,7 +37,47 @@ classes: wide
     {% bibliography --cited %}
 </section>
 <script type="text/javascript">
+    const re = /[fp]?(\d{3}\**[abrv]?)/g
+    // "f284v-285r (NB f197v-f284r blanco, niet opgenomen)"
+    // "f122v-122*r"
+    // "f122*v-122**r"
+    // "f122**v-122***r"
+    // "f122***v-123r"
+    // "opening05 (incl. f001r)"
+    function createUriIndex(manifestData) {
+        var index = {};
+        for (const canvas of manifestData.jsonLd.sequences[0].canvases) {
+            var label = canvas.label;
+            var uri = canvas["@id"];
+            for (const m of label.matchAll(re)) {
+                index[m[1]] = uri;
+            }
+            index[label] = uri;
+        }
+        return index;
+    }
+    function handleRefClick(clickEvent) {
+        if (clickEvent.target.nodeName.toLowerCase() === "span") {
+            var node = clickEvent.target;
+            var label = node.dataset["fol"];
+            label = /[rvab]$/.test(label) ? label.padStart(4, '0') : label.padStart(3, '0');
+            var canvasUri = findCanvasUriByLabel(label);
+            if (canvasUri) {
+                mirWindow.setCurrentCanvasID(canvasUri);
+                // console.debug('Navigated to ', canvasUri);
+            }
+        }
+    }
+
+    function findCanvasUriByLabel(label) {
+        if (label in uriIndex) {
+            return uriIndex[label];
+        }
+        return null;
+    }
     var mir;
+    var mirWindow;
+    var uriIndex;
     $(function() {
         mir = Mirador({
         id: "viewer",
@@ -52,8 +92,16 @@ classes: wide
             bottomPanel: false,
             bottomPanelAvailable: false,
             bottomPanelVisible: false,
-            sidePanel: false
+            sidePanel: false,
+            id: 'the_window'
         }]
         });
+        mir.eventEmitter.subscribe('windowAdded', (event, data) => {
+            mirWindow = mir.viewer.workspace.windows[0];
+        });
+        mir.eventEmitter.subscribe('manifestReceived', (event, data) => {
+            uriIndex = createUriIndex(data);
+        });
+        document.querySelector('#description').addEventListener('click', handleRefClick);
     });
 </script>

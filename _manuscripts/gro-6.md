@@ -4,6 +4,7 @@ route: liberal-arts-education
 
 title: Practical rhetorical exercises
 shelfmark: GRO 6
+sort_as: GRO 0006
 origin: "Florence, Italy"
 ms_date: "1300-1400"
 ms_creator: Cicero
@@ -23,8 +24,7 @@ questions:
 This manuscript belonged to professor of
 [rhetoric](https://en.wikipedia.org/wiki/Rhetoric) Michael Junta de
 Santa Croce of Florence. It is therefore no surprise that the five texts
-included concern the subject of rhetoric. Parts three and four (fol.
-56-115), written by Michael Junta himself, contain composed practical
+included concern the subject of rhetoric. Parts three and four (fols. <span data-fol="56r" class="fref">56</span> - <span data-fol="115v" class="fref">115</span>), written by Michael Junta himself, contain composed practical
 exercises in Italian and a commentary on the [*Ad herennium*](https://en.wikipedia.org/wiki/Rhetorica_ad_Herennium) (here
 wrongly attributed to [Cicero](https://en.wikipedia.org/wiki/Cicero),
 see also BPL 195). Junta probably used these exercises during his

@@ -4,6 +4,7 @@ route: diy-manuals
 
 title: A Note on Alchemy
 shelfmark: VCF 11
+sort_as: VCF 0011
 origin: "Germany"
 ms_date: "1590"
 ms_title: Tractatus de Alchimia

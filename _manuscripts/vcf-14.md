@@ -4,6 +4,7 @@ route: diy-manuals
 
 title: Magic and spirits
 shelfmark: VCF 14
+sort_as: VCF 0014
 origin: "Germany"
 ms_date: "1577-1600"
 ms_title: Explanatio artis cabalisticae
@@ -33,7 +34,7 @@ The fourth text of this manuscript is the third volume of [Johannes
 Trithemius'](https://en.wikipedia.org/wiki/Johannes_Trithemius)
 *Steganographia.* This volume, believed to be about magic, was placed on
 the "List of Prohibited Books" in 1609. The texts describe how spirits
-can be used to communicate over long distances. Fol. 76r and fol. 76v
+can be used to communicate over long distances. Fol. <span data-fol="76r" class="fref">76r</span> and fol. <span data-fol="76v" class="fref">76v</span>
 contain a list of the thirty-one so-called Aerial Spirits, also known as
 [jinn](https://en.wikipedia.org/wiki/Jinn). The first column lists the
 names of these spirits, the second column shows their symbols and the

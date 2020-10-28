@@ -4,6 +4,7 @@ route: diy-manuals
 
 title: Beneath the Binding
 shelfmark: VCF 20
+sort_as: VCF 0020
 origin: "Germany"
 ms_date: "1574"
 ms_title: Various works by Raymundus Lullus
@@ -34,7 +35,7 @@ Raymundus Lullus. [Lullus](https://en.wikipedia.org/wiki/Ramon_Llull)
 various subjects. The scribe and first owner of this manuscript was
 physician Lorentz Zatzer. Zatzer included two of his own recipes in the
 manuscript. Whenever he finished copying a certain passage he wrote down
-his name and the date (see for example fol. 110 *Finis Lor. Zatz., vollendet den 1 Apprili Anno 1574*). Other owners of this manuscript
+his name and the date (see for example fol. <span data-fol="110r" class="fref">110r</span> *Finis Lor. Zatz., vollendet den 1 Apprili Anno 1574*). Other owners of this manuscript
 were Hans Thyle (see binding *Han Thyle 160*), [Cardinal Franz
 Dietrichstein](https://en.wikipedia.org/wiki/Franz_von_Dietrichstein),
 [Christina, Queen of

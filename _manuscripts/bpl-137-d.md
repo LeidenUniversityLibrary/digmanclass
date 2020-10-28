@@ -4,6 +4,7 @@ route: liberal-arts-education
 
 title: An Artistic Failure
 shelfmark: BPL 137 D
+sort_as: BPL 0137 D
 origin: "France/Italy"
 ms_date: "1150-1200"
 ms_creator: Ovidius

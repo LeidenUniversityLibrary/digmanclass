@@ -4,6 +4,7 @@ route: diy-manuals
 
 title: Planets, metals and elements
 shelfmark: VCF 21
+sort_as: VCF 0021
 origin: "Germany"
 ms_date: "1572-1600"
 ms_title: Lapide Philosophorum
@@ -30,9 +31,9 @@ with the metal iron and the element fire. The symbols of the planets
 were often used to denote chemical processes (see also VCF 17).
 
 This manuscript also contains a treatise on the [Philosopher's
-Stone](https://en.wikipedia.org/wiki/Philosopher%27s_stone) (fol. 1-17),
+Stone](https://en.wikipedia.org/wiki/Philosopher%27s_stone) (fols. <span data-fol="1r" class="fref">1</span> - <span data-fol="17v" class="fref">17</span>),
 texts by [Paracelsus](https://en.wikipedia.org/wiki/Paracelsus) (fols.
-96-131) and many alchemical and medicinal recipes (fol. 133-354). The
+96-131) and many alchemical and medicinal recipes (fols. <span data-fol="133r" class="fref">133</span> - <span data-fol="354v" class="fref">354</span>). The
 scribe of this manuscript was Hans Meissel, who also copied VCF 6, VCF
 13 and VCF 14. The readers' annotations are very minimal, and the
 manuscript does not look heavily used. The original binding has,

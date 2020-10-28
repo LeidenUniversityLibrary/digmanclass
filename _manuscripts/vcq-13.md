@@ -4,6 +4,7 @@ route: diy-manuals
 
 title: Medicine at the court
 shelfmark: VCQ 13
+sort_as: VCQ 0013
 origin: "Germany"
 ms_date: "1506-1526?"
 ms_title: Descriptiones Processum Diversorum Chymicorum
@@ -24,7 +25,7 @@ I](https://en.wikipedia.org/wiki/Maximilian_I,_Holy_Roman_Emperor)
 an advocate for the development of arts and sciences. He was known to
 surround himself with famous scholars. This manuscript contains two
 treatises from a servant of a physician who worked at the court of
-Maximilian (fol. 12v). It is possible that the emperor was composing his
+Maximilian (fol. <span data-fol="12v" class="fref">12v</span>). It is possible that the emperor was composing his
 own [pharmacopoeia](https://en.wikipedia.org/wiki/Pharmacopoeia) - an
 official guide for the use and identification of medicine (see also BPL
 3284).
@@ -37,7 +38,7 @@ the front), most likely a priest from Regendorf, Germany. Even though
 the leaves provide plenty of space for commentary, the readers' notes[^1]
 in this manuscript are minimal. Some of the pages are decorated with
 drawings of small bottles and other laboratory glassware (see for
-example fol. 9v).
+example fol. <span data-fol="9v" class="fref">9v</span>).
 
 [^1]: [Using the Book: Gloss]({{ "/glossary/#gloss" | relative_url }})
 

@@ -4,6 +4,7 @@ route: diy-manuals
 
 title: Father and son
 shelfmark: VCQ 37
+sort_as: VCQ 0037
 origin: "Netherlands?"
 ms_date: "1500-1550?"
 ms_creator: Isaac Hollandus
@@ -39,9 +40,9 @@ sinusitis.
 
 The top of each page of this manuscript contains running titles[^1] in red
 ink, which made it much easier for the reader to see which treatise he
-or she was reading. From fol. 22v onwards the manuscript contains
+or she was reading. From fol. <span data-fol="22v" class="fref">22v</span> onwards the manuscript contains
 several drawings of various *laboratory glassware items*. There is an
-empty space on fol. 68v, which was probably meant for a more elaborate
+empty space on fol. <span data-fol="68v" class="fref">68v</span>, which was probably meant for a more elaborate
 drawing that was never completed.
 
 [^1]: [Reading Aids: Running Title]({{ "/glossary/#running-title" | relative_url }})

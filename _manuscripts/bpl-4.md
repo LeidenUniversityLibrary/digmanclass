@@ -5,6 +5,7 @@ route: religion-devotion
 
 title: "The City of God"
 shelfmark: BPL 4
+sort_as: BPL 0004
 origin: "Italy"
 ms_date: "1453"
 ms_creator: Augustine
@@ -36,15 +37,14 @@ University Library has eight, each containing a part of *De civitate Dei.*
 
 This manuscript (BPL 4) contains chapter forty-three of the second book
 of *De civitate Dei*. As you can see, there are no annotations,
-indicating it was probably not used for study purposes. In fol. 2r we
+indicating it was probably not used for study purposes. In fol. <span data-fol="2r" class="fref">2r</span> we
 see two large decorated initials[^1], while other pages are decorated with
 smaller colored initials in red and blue. We can see from the owner
 marks on the flyleaves that this manuscript belonged to the Convent of
 St. Clara in Amsterdam around the year 1500, where it remained until
 1590 when the sisters of St. Clara were expelled from the city. After
 their expulsion, the manuscript came in the possession of Christophorus
-Dibuadius (*c*.1578-1621), a Danish scholar studying in Leiden. In fol.
-139v you can read the exact date that the scribe finished copying the
+Dibuadius (*c*.1578-1621), a Danish scholar studying in Leiden. In fol. <span data-fol="139v" class="fref">139v</span> you can read the exact date that the scribe finished copying the
 text.
 
 [^1]: [Decorating the Book]({{ "/glossary/#decorating-the-book" | relative_url }})

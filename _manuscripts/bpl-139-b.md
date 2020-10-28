@@ -4,6 +4,7 @@ route: liberal-arts-education
 
 title: Testing the Pen
 shelfmark: BPL 139 B
+sort_as: BPL 0139 B
 origin: "Fleury, France"
 ms_date: "900-1100"
 ms_creator: Abbo van Fleury
@@ -31,7 +32,7 @@ amongst other texts on logic, the *De syllogisms categoricis,* which was
 written by [Abbo of Fleury](https://en.wikipedia.org/wiki/Abbo_of_Fleury) (c. 945-1004)
 specifically for students of dialectic. The manuscript was copied by the
 Convent of Fleury-St. Benoit in France. Throughout the manuscript we can
-find many diagrams. Fol. 31r contains an
+find many diagrams. Fol. <span data-fol="31r" class="fref">31r</span> contains an
 [anthropomorphic](https://en.wikipedia.org/wiki/Anthropomorphism)
 initial of a man that is being torn by two lions.
 

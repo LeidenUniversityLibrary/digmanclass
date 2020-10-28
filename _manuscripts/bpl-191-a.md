@@ -4,6 +4,7 @@ route: liberal-arts-education
 
 title: Face to Face with Statius
 shelfmark: BPL 191 A
+sort_as: BPL 0191 A
 origin: "France/Southern Netherlands"
 ms_date: "1100-1400"
 ms_creator: John of God
@@ -23,14 +24,14 @@ questions:
 Have you ever wondered what a classical author looked like? Someone,
 either the scribe or a future reader, tried to illustrate this by
 drawing a portrait of [Statius](https://en.wikipedia.org/wiki/Statius)
-on fol. 213v. Unfortunately, his or her artistic skills leave much to be
+on fol. <span data-fol="213v" class="fref">213v</span>. Unfortunately, his or her artistic skills leave much to be
 desired - Statius' only recognizable trait is his laurel wreath. The
-same "artist" tried to draw another portrait on fol. 238v, but it was
+same "artist" tried to draw another portrait on fol. <span data-fol="238v" class="fref">238v</span>, but it was
 never finished.
 
 This composite manuscript consists of eight parts. As the leaves of the
 parts were being trimmed to the same size, the commentary of the first
-part (fol. 1r - fol. 36v) was partly cut off. As a result, only the
+part (fols. <span data-fol="1r" class="fref">1r</span> - <span data-fol="36v" class="fref">36v</span>) was partly cut off. As a result, only the
 first lines of the commentary are still visible. In the early fifteenth
 century the complete manuscript belonged to the Convent of St. James in
 Liege. They already owned the seventh part, containing a commentary on

@@ -4,6 +4,7 @@ route: liberal-arts-education
 
 title: A medieval dictionary
 shelfmark: BPL 17
+sort_as: BPL 0017
 origin: "France?"
 ms_date: "c. 1200"
 ms_title: Elementarium
@@ -43,7 +44,7 @@ the Latin language.
 Each letter of the alphabet within this manuscript is introduced with a
 pen-flourished or colored initial. Lines that are not fully occupied by
 script are filled in with red decorations, called line fillers (see for
-example fol. 67v).[^1]
+example fol. <span data-fol="67v" class="fref">67v</span>).[^1]
 
 [^1]: [Decorating the Book]({{ "/glossary/#decorating-the-book" | relative_url }})
 
