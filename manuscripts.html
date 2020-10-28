@@ -9,8 +9,9 @@ sidebar:
 All manuscripts in the collection
 </section>
 
+{% assign mss_by_key = site.manuscripts | sort: "sort_as" %}
 <ol>
-    {% for ms in site.manuscripts %}
+    {% for ms in mss_by_key %}
     <li><a href="{{ ms.url | relative_url }}">{{ms.shelfmark}}: {{ ms.title }} ({{ ms.ms_date }})</a></li>
     {% endfor %}
 </ol>
