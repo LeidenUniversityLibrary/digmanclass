@@ -1,0 +1,7 @@
+---
+---
+shelfmark,origin,ms_date,route
+{% assign mss_by_key = site.manuscripts | sort: "sort_as" %}
+{%- for ms in mss_by_key -%}
+{{ms.shelfmark}},"{{ ms.origin }}","{{ ms.ms_date }}",{{ ms.route }}
+{% endfor -%}
