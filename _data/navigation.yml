@@ -38,4 +38,8 @@ dmc:
   - title: "Overviews"
     children:
       - title: Manuscripts by shelfmark
-        url: /manuscripts/
+        url: /mss-by-shelfmark.html
+      - title: Manuscripts by century
+        url: /mss-by-century.html
+      - title: Manuscripts by country
+        url: /mss-by-country.html

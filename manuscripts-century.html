@@ -1,0 +1,19 @@
+---
+layout: archive
+title: Manuscripts by century
+permalink: /mss-by-century.html
+sidebar:
+    nav: dmc
+---
+
+<section id="introduction">
+All manuscripts in the collection, by century.
+</section>
+
+{% assign mss_by_century = site.data.countcent | sort: "century" %}
+<ol>
+    {% for ms in mss_by_century %}
+    <li><a href="{{ ms.url | prepend: 'manuscripts/' | relative_url }}">{{ ms.century }}, {{ ms.country }} – {{ms.shelfmark}}</a></li>
+    {% endfor %}
+</ol>
+

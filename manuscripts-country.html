@@ -1,0 +1,19 @@
+---
+layout: archive
+title: Manuscripts by country
+permalink: /mss-by-country.html
+sidebar:
+    nav: dmc
+---
+
+<section id="introduction">
+All manuscripts in the collection, by country of production.
+</section>
+
+{% assign mss_by_country = site.data.countcent | sort: "country" %}
+<ol>
+    {% for ms in mss_by_country %}
+    <li><a href="{{ ms.url | prepend: 'manuscripts/' | relative_url }}">{{ ms.country }}, {{ ms.century }} – {{ms.shelfmark}}</a></li>
+    {% endfor %}
+</ol>
+

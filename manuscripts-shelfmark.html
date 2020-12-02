@@ -1,0 +1,19 @@
+---
+layout: archive
+title: Manuscripts by shelfmark
+permalink: /mss-by-shelfmark.html
+sidebar:
+    nav: dmc
+---
+
+<section id="introduction">
+All manuscripts in the collection, by shelfmark.
+</section>
+
+{% assign mss_by_shelfmark = site.data.countcent | sort: "sort_as" %}
+<ol>
+    {% for ms in mss_by_shelfmark %}
+    <li><a href="{{ ms.url | prepend: 'manuscripts/' | relative_url }}">{{ms.shelfmark}} – {{ ms.country }}, {{ ms.century }}</a></li>
+    {% endfor %}
+</ol>
+
