@@ -4,27 +4,40 @@ title: Colophon
 permalink: /about/
 ---
 
-Digital Manuscripts in the Classroom has been developed in a collaborative
-effort by the [Scaliger Institute][si], [Centre for Digital Scholarship (CDS)][cds]
-and [Special Collections][cbc] at [Leiden University Libraries][ubl].
+*Digital Manuscripts in the Classroom* was developed by Erik Kwakkel,
+former Scaliger Professor at Leiden University, in collaboration with
+[Leiden University Libraries (UBL)][ubl].
+The website provides a means to integrate medieval manuscripts in the
+classroom through short introductory texts aimed at non-experts.
+Integrated questions prompt users to examine certain aspects of the
+manuscripts, which are presented in digital form.
 
-All manuscripts presented here have been selected from the Libraries' Special
-Collections by Erik Kwakkel in his capacity as Scaliger Professor, together with
-André Bouwman and Matthijs Holwerda.
-The manuscripts have been digitised by Special Collections Services, thanks to
-funding provided by the Universiteit Leiden.
+All manuscripts presented here were selected from the library’s
+Special Collections by Erik Kwakkel with input from instructors at the
+University of Leiden’s Faculty of Humanities.
+The objects at the heart of Digital Manuscripts in the Classroom were
+digitised by Special Collections Services (UBL) with funding made
+available by Carel Stolker, Rector Magnificus of Leiden University.
 
-The texts accompanying the manuscripts were written by Erik Kwakkel and
-Renée Schilling and translated by X.
-Erik and Renée also organised the manuscripts into routes.
-André helped with wrangling the metadata to create the overviews of manuscripts.
+Erik Kwakkel and Renée Schilling organised the manuscripts into educational
+routes, while accompanying texts (RS) and a series of questions (EK) were
+made to provide a pedagogical context for studying these manuscripts.
+The integrated glossary was previously published as
+[Quill: Books before Print][quill], a website created by Erik Kwakkel (texts)
+and Giulio Menna (photos), now offline.
+Further copy-editing of the website was undertaken by Jamie Wood (School of
+Information, University of British Columbia).
 
-Ben Companjen developed the website using the [Jekyll static site generator][j]
-and the [Minimal Mistakes theme][mm], in collaboration with Erik, Renée and André.
-The digitised images are served via [IIIF] from the [Digital Collections][dc]
-repository, and shown in the [Mirador image viewer][mirador].
+Ben Companjen ([Centre for Digital Scholarship, UBL][cds]) developed the
+website using the [Jekyll static site generator][j] and the
+[Minimal Mistakes theme][mm],
+in collaboration with Erik Kwakkel, Renée Schilling, and André Bouwman,
+curator of western manuscripts (UBL).
+The digitised images are presented via [IIIF] from the
+[Digital Collections][dc] repository, and shown in the
+[Mirador image viewer][mirador].
 
-The glossary was previously published as Quill.
+December 2020
 
 [si]: https://www.library.universiteitleiden.nl/special-collections/scaliger-institute
 [cds]: https://www.library.universiteitleiden.nl/about-us/centre-for-digital-scholarship
@@ -35,3 +48,4 @@ The glossary was previously published as Quill.
 [IIIF]: https://iiif.io/
 [dc]: https://digitalcollections.universiteitleiden.nl/
 [mirador]: https://projectmirador.org/
+[quill]: https://medievalbooks.nl/2014/10/17/meet-the-medieval-manuscript/
