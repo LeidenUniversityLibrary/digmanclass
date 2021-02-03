@@ -1,0 +1,24 @@
+---
+layout: archive
+---
+
+<section id="introduction">
+{{ content }}
+</section>
+{% for chapter in site.glossary %}
+<section class="chapter" id="{{ chapter.title | slugify }}">
+<h2>{{ chapter.title }}</h2>
+<figure>
+    <img src="{{ chapter.image | relative_url }}" />
+    <figcaption>{{ chapter.image_caption }}</figcaption>
+</figure>
+{{ chapter.content }}
+<p>Read more in Quill: 
+{% for link in chapter.quill_links %}
+{% assign slug = link | slugify -%}
+<a href="{{ slug | prepend: 'quill/#' | relative_url }}">{{ link }}</a>{% unless forloop.last %} – {% endunless %}
+{% endfor %}</p>
+</section>
+{% endfor %}
+
+
