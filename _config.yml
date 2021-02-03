@@ -30,6 +30,10 @@ collections:
     output: true
     permalink: /:collection/:path/
     sort_by: route
+  quill:
+    output: false
+  glossary:
+    output: false
 
 defaults:
   - scope:

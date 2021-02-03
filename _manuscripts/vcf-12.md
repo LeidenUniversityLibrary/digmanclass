@@ -45,6 +45,6 @@ and perhaps others -- added several notes in the margins. From fol. <span data-f
 onwards you can see many maniculae[^1]; drawings of tiny hands used to
 point to relevant passages in the text.
 
-[^1]: [Using the Book: Manicula]({{ "/glossary/#manicula" | relative_url }})
+[^1]: [Manicula]({{ "/glossary/#manicula" | relative_url }})
 
 {% cite boecodices --locator 39-41 %}

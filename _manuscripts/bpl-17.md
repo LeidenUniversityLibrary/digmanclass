@@ -46,6 +46,6 @@ pen-flourished or colored initial. Lines that are not fully occupied by
 script are filled in with red decorations, called line fillers (see for
 example fol. <span data-fol="67v" class="fref">67v</span>).[^1]
 
-[^1]: [Decorating the Book]({{ "/glossary/#decorating-the-book" | relative_url }})
+[^1]: [Decorating the Book]({{ "/quill/#decorating-the-book" | relative_url }})
 
 {% cite gumillustrated --locator 20 %}

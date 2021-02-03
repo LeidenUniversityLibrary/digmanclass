@@ -41,7 +41,7 @@ this manuscript (fols. <span data-fol="1r" class="fref">1r</span> - <span data-f
 can see that each drawing is a monogram of the letters n, o, t, and a.
 Nota bene markings vary in appearance from page to page.
 
-[^1]: [Using the Book: Nota]({{ "/glossary/#nota" | relative_url }})
+[^1]: [Nota]({{ "/glossary/#nota" | relative_url }})
 
 {% cite gumillustrated --locator 90-92 %}
 {% cite gereuropa --locator 34-37 %}

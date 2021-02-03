@@ -9,7 +9,9 @@ dmc:
         url: /
       - title: "Colophon"
         url: /about/
-      - title: "Glossary / Quill"
+      - title: "Quill"
+        url: /quill/
+      - title: "Glossary"
         url: /glossary/
 
   - title: "Routes"
