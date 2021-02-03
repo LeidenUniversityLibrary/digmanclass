@@ -1,0 +1,21 @@
+---
+layout: archive
+---
+
+<section id="introduction">
+{{ content }}
+</section>
+{% assign chapters = site.quill | sort: "chapter_number" %}
+{% for chapter in chapters %}
+<section class="chapter" id="{{ chapter.title | slugify }}">
+<h2>{{ chapter.chapter_number }} {{ chapter.title }}</h2>
+<figure>
+    <img src="{{ chapter.image | relative_url }}" />
+    <figcaption>{{ chapter.image_caption }}</figcaption>
+</figure>
+{{ chapter.content }}
+{{ chapter.glossary_links }}
+</section>
+{% endfor %}
+
+
