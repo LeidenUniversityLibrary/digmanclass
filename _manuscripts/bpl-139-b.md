@@ -48,7 +48,7 @@ This flyleaf with pen trials contains a strange drawing of a person, the
 name Petrus, and musical notations known as
 [neumes](https://en.wikipedia.org/wiki/Neume). (see also BPL 2851).
 
-[^1]: [Copying the Text: Pen Trials]({{ "/glossary/#pen-trials" | relative_url }})
+[^1]: [Pen Trials]({{ "/glossary/#pen-trials" | relative_url }})
 
 {% cite gereuropa %}
 {% cite gumillustrated --locator 68-70 %}

@@ -42,6 +42,6 @@ initial[^1] on fol. <span data-fol="1r" class="fref">1r</span>. The scribe has a
 extending the ascending and descending the strokes of some of the
 letters of the first and last line of every page.
 
-[^1]: [Decorating the Book: Historiated Initial]({{ "/glossary/#historiated-initial" | relative_url }})
+[^1]: [Historiated Initial]({{ "/glossary/#historiated-initial" | relative_url }})
 
 {% cite mmdc %}

@@ -47,6 +47,6 @@ their expulsion, the manuscript came in the possession of Christophorus
 Dibuadius (*c*.1578-1621), a Danish scholar studying in Leiden. In fol. <span data-fol="139v" class="fref">139v</span> you can read the exact date that the scribe finished copying the
 text.
 
-[^1]: [Decorating the Book]({{ "/glossary/#decorating-the-book" | relative_url }})
+[^1]: [Decorating the Book]({{ "/quill/#decorating-the-book" | relative_url }})
 
 {% cite gumillustrated --locator 14 %}

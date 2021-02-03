@@ -44,6 +44,6 @@ The texts were written by five different scribes. Scribe A (fols. <span data-fol
 94-100) is particularly hard to read because of the thick pen-strokes
 and the ink that has leaked through to the other side of the leaves.
 
-[^1]: [Binding the Book: Limp Binding]({{ "/glossary/#limp-binding" | relative_url }})
+[^1]: [Limp Binding]({{ "/glossary/#limp-binding" | relative_url }})
 
 {% cite boecodices --locator 51-52 %}

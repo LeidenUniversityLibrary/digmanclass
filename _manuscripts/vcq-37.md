@@ -45,6 +45,6 @@ several drawings of various *laboratory glassware items*. There is an
 empty space on fol. <span data-fol="68v" class="fref">68v</span>, which was probably meant for a more elaborate
 drawing that was never completed.
 
-[^1]: [Reading Aids: Running Title]({{ "/glossary/#running-title" | relative_url }})
+[^1]: [Running Title]({{ "/glossary/#running-title" | relative_url }})
 
 {% cite boecodices --locator 193-194 %}

@@ -44,7 +44,7 @@ probably covers an owner mark. The following two pages of the flyleaves
 were used in the fourteenth century to add more glosses. Someone has
 even added a remark in Hebrew.
 
-[^1]: [Choosing a Writing Support: Damaged Parchment]({{ "/glossary/#damaged-parchment" | relative_url }})
+[^1]: [Damaged Parchment]({{ "/glossary/#damaged-parchment" | relative_url }})
 
 {% cite gumillustrated --locator 48 %}
 {% cite gereuropa --locator 9-13 %}

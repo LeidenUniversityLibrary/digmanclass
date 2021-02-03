@@ -44,8 +44,8 @@ written in one column of 30 lines, while the second part was written in
 two columns with 62 lines, making both parts independent codicological
 units. The colors of the decorated initials are, however, quite similar.
 
-[^1]: [Using the Book: Gloss]({{ "/glossary/#gloss" | relative_url }})
-[^2]: [Preparing the Page: Layout]({{ "/glossary/#layout" | relative_url }})
+[^1]: [Gloss]({{ "/glossary/#gloss" | relative_url }})
+[^2]: [Layout]({{ "/glossary/#layout" | relative_url }})
 
 {% cite gumillustrated --locator 30 %}
 {% cite gumcodicologische --locator 18-19 %}

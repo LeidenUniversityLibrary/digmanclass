@@ -42,6 +42,6 @@ annotations from the exemplar he used or added them himself as he
 studied the text. One anotation can still be found in Bondam's version;
 he did copy the catchwords[^1] in the bottom right corner.
 
-[^1]: [Making Quires and Sheets: Catchwords and Signatures]({{ "/glossary/#catchwords-and-signatures" | relative_url }})
+[^1]: [Catchwords and Signatures]({{ "/glossary/#catchwords-and-signatures" | relative_url }})
 
 {% cite meycodices --locator 101-102 %}

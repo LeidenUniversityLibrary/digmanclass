@@ -40,6 +40,6 @@ in this manuscript are minimal. Some of the pages are decorated with
 drawings of small bottles and other laboratory glassware (see for
 example fol. <span data-fol="9v" class="fref">9v</span>).
 
-[^1]: [Using the Book: Gloss]({{ "/glossary/#gloss" | relative_url }})
+[^1]: [Gloss]({{ "/glossary/#gloss" | relative_url }})
 
 {% cite boecodices --locator 134 %}
