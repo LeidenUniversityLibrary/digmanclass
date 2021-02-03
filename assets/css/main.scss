@@ -117,3 +117,16 @@ span.shelfmark {
 //     width: 150px;
 //     height: 150px;
 // }
+
+section.chapter > figure {
+    max-height: 50vh;
+    width: auto;
+    display: block;
+    float: inline-end;
+    margin-inline-start: 1em;
+    margin-top: 1.5em;
+}
+section.chapter > figure > img {
+    width: unset;
+    display: block;
+}
