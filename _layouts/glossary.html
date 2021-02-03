@@ -8,16 +8,23 @@ layout: archive
 {% for chapter in site.glossary %}
 <section class="chapter" id="{{ chapter.title | slugify }}">
 <h2>{{ chapter.title }}</h2>
+{% if chapter.image %}
 <figure>
     <img src="{{ chapter.image | relative_url }}" />
     <figcaption>{{ chapter.image_caption }}</figcaption>
 </figure>
+{% endif %}
+{% if chapter.see %}
+<p>See: <a href="{{ chapter.see | slugify | prepend: '#' }}">{{ chapter.see }}</a>.</p>
+{% endif %}
 {{ chapter.content }}
+{% if chapter.quill_links %}
 <p>Read more in Quill: 
 {% for link in chapter.quill_links %}
 {% assign slug = link | slugify -%}
 <a href="{{ slug | prepend: 'quill/#' | relative_url }}">{{ link }}</a>{% unless forloop.last %} – {% endunless %}
 {% endfor %}</p>
+{% endif %}
 </section>
 {% endfor %}
 
