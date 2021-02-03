@@ -9,7 +9,7 @@ Welcome to Digital Manuscripts in the Classroom!
 This educational resource is a collection of selected digitised manuscripts
 from [Leiden University Libraries][ubl], organised in thematic routes.
 You are welcome to use (parts of) this collection in your classes. Please see
-the [colophon](colophon/) for details on how to use and improve these
+the [colophon](about/) for details on how to use and improve these
 materials.
 *Digital Manuscripts in the Classroom is currently released in beta.*
 
