@@ -8,8 +8,7 @@ glossary_links:
   - Pricking and Ruling
 ---
 
-Get set!
-
+*Get set!* –
 Before a single word flowed from his pen, the scribe needed to prepare
 the page. Whether he had opted for a writing supported material, such as
 parchment or paper, the sheets were completely blank. He first needed to

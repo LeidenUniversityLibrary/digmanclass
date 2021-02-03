@@ -10,8 +10,7 @@ glossary_links:
   - Signe de Revoi
 ---
 
-Flaws be gone!
-
+*Flaws be gone!* –
 While a Bible may take a year to produce, a mistake was made in a
 split-second. Even scribes who carefully copied their text, a few words
 at the time, would ultimately make mistakes. Hasty scribes and those who

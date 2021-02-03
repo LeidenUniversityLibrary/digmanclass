@@ -9,9 +9,7 @@ glossary_links:
   - Quire
 ---
 
-
-Cuddly quires
-
+*Cuddly quires* –
 While the medieval book was made out of sheets, it is the quire that is
 the object's building block. A quire is a small package of folded
 sheets (bifolia or double-leaves) made of parchment, paper or off-cuts.

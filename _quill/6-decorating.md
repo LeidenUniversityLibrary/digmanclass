@@ -11,8 +11,7 @@ glossary_links:
   - Penwork Flourishing
 ---
 
-Colorful books
-
+*Colorful books* –
 When the quires were filled with text, the rubrics were in place, and
 the scribe had corrected his work, it was time for the finishing
 touches. Many medieval books contain some kind of decoration in addition

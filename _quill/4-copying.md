@@ -20,8 +20,7 @@ glossary_links:
   - Foliation
 ---
 
-Words, words, words
-
+*Words, words, words* -
 Parchment makers prepared skins, scribes cut their pens and filled their
 ink pots, and binders packed their workshops with leather and wood. All
 these activities would be in vane were it not for the single event that

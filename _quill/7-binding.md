@@ -10,8 +10,7 @@ glossary_links:
   - Binding Fragments
 ---
 
-Packing it up
-
+*Packing it up* –
 All that was left when the book was copied, corrected and decorated, was
 to bind the quires together. If a book was made commercially, the client
 would bring the complete quires to a binder and go over the options. At
