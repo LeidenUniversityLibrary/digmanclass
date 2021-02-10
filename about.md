@@ -22,7 +22,8 @@ available by Carel Stolker, Rector Magnificus of Leiden University.
 Erik Kwakkel and Renée Schilling organised the manuscripts into educational
 routes, while accompanying texts (RS) and a series of questions (EK) were
 made to provide a pedagogical context for studying these manuscripts.
-The integrated glossary was previously published as
+The webpages [Quill: Introduction](quill/) and [Quill: Glossary](glossary/)
+were previously published as
 [Quill: Books before Print][quill], a website created by Erik Kwakkel (texts)
 and Giulio Menna (photos), now offline.
 Further copy-editing of the website was undertaken by Jamie Wood (School of

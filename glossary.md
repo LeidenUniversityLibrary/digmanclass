@@ -1,6 +1,6 @@
 ---
 layout: glossary
-title: "Glossary"
+title: "Quill: Glossary"
 permalink: /glossary/
 sidebar:
     nav: dmc

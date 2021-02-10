@@ -1,12 +1,13 @@
 ---
 layout: quill
-title: "Quill: Books before Print"
+title: "Quill: Introduction"
 permalink: /quill/
 sidebar:
     nav: dmc
 ---
 
-Contrary to the editions published by Johannes Gutenberg and his successors –
+*Books before Print* – Contrary to the editions published by Johannes
+Gutenberg and his successors –
 which consist of multiple copies printed from the same setting of moveable
 type – manuscript books are unique artefacts created with a pen and ink.
 But this uniqueness does not mean that medieval scribes tended to work
