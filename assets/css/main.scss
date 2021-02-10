@@ -119,24 +119,36 @@ span.shelfmark {
 // }
 
 section.chapter > figure {
-    max-height: 45vh;
-    max-width: 40%;
-    width: auto;
     display: block;
-    float: inline-end;
-    margin: 1.2em 0;
-    margin-inline-start: 1em;
-    margin-top: 0.5em;
 }
 section.chapter > figure > img {
     width: unset;
     display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
-
-.archive {
-    padding-right: 180px;
+section.chapter > figure > figcaption {
+    text-align: center;
 }
 
 section.chapter > p {
-    padding-right: 40px;
+    max-width: 40em;
+}
+
+@media (min-width: 48em) {
+    section.chapter > figure {
+        max-width: 40%;
+        width: auto;
+        float: right;
+        margin: 1.2em 0;
+        margin-inline-start: 1em;
+        margin-top: 0.5em;
+    }
+    .archive {
+        padding-right: 180px;
+    }
+
+    // section.chapter > p {
+    //     padding-right: 40px;
+    // }
 }
