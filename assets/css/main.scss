@@ -118,16 +118,16 @@ span.shelfmark {
 //     height: 150px;
 // }
 
-section.chapter > figure {
+section.chapter figure {
     display: block;
 }
-section.chapter > figure > img {
+section.chapter figure > img {
     width: unset;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
-section.chapter > figure > figcaption {
+section.chapter figure > figcaption {
     text-align: center;
 }
 
@@ -136,7 +136,7 @@ section.chapter > p {
 }
 
 @media (min-width: 48em) {
-    section.chapter > figure {
+    section.chapter figure {
         max-width: 40%;
         width: auto;
         float: right;

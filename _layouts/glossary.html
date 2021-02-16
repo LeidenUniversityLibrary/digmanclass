@@ -9,10 +9,12 @@ layout: archive
 <section class="chapter" id="{{ chapter.title | slugify }}">
 <h2>{{ chapter.title }}</h2>
 {% if chapter.image %}
+<a href="{{ chapter.image | replace: '_400', '' | relative_url }}" target="_blank" title="Open full-size view of {{ chapter.image_caption }} in new tab">
 <figure>
     <img src="{{ chapter.image | relative_url }}" />
     <figcaption>{{ chapter.image_caption }}</figcaption>
 </figure>
+</a>
 {% endif %}
 {% if chapter.see %}
 <p>See: <a href="{{ chapter.see | slugify | prepend: '#' }}">{{ chapter.see }}</a>.</p>
