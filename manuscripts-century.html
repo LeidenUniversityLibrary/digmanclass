@@ -10,10 +10,13 @@ sidebar:
 All manuscripts in the collection, by century.
 </section>
 
-{% assign mss_by_century = site.data.countcent | sort: "century" %}
+{% assign mss_by_century = site.data.countcent | group_by: "century" | sort: "name" %}
 <ol>
-    {% for ms in mss_by_century %}
+    {% for ms_group in mss_by_century %}
+    {% assign mss = ms_group.items | sort: "country" %}
+    {% for ms in mss %}
     <li><a href="{{ ms.url | prepend: 'manuscripts/' | relative_url }}">{{ ms.century }}, {{ ms.country }} – {{ms.shelfmark}}</a></li>
+    {% endfor %}
     {% endfor %}
 </ol>
 
