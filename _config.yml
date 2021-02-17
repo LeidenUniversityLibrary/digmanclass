@@ -14,13 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Digital Manuscripts in the Classroom
+name: Leiden University Libraries
 email: cds@library.leidenuniv.nl
 description: >- # this means to ignore newlines until "baseurl:"
   We offer digital manuscripts for your classroom.
 baseurl: "/digmanclass" # the subpath of your site, e.g. /blog
 url: "https://lab.library.universiteitleiden.nl" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: bencomp
-github_username:  bencomp
+twitter_username: ubleiden
+github_username:  LeidenUniversityLibrary
 
 collections:
   routes:
@@ -51,10 +52,15 @@ defaults:
 markdown: kramdown
 theme: minimal-mistakes-jekyll
 plugins:
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-scholar
   - jekyll-target-blank
 
+atom_feed:
+  hide: true
+social:
+  type: Organization
+logo: "/assets/img/UL-small.png"
 footer_scripts: []
 
 # Exclude from processing.
