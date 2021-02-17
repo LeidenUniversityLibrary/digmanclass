@@ -8,6 +8,7 @@ glossary_links:
   - Script
   - Carolingian Script
   - Cursive Script
+  - Gothic Script
   - Pre-Gothic Script
   - Punctuation
   - Reading Aids
