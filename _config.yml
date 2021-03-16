@@ -60,7 +60,7 @@ atom_feed:
   hide: true
 social:
   type: Organization
-logo: "/assets/img/UL-small.png"
+logo: "/assets/img/UBL.png"
 footer_scripts: []
 
 # Exclude from processing.
