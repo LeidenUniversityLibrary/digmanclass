@@ -1,6 +1,6 @@
 ---
 layout: manuscript
-route: diy-manuals
+route: books-for-professional-use
 
 title: Medicine at the court
 shelfmark: VCQ 13

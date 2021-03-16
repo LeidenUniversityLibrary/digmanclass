@@ -1,6 +1,6 @@
 ---
 title: Books for professional use
-identifier: diy-manuals
+identifier: books-for-professional-use
 layout: route
 manuscripts: []
 ---

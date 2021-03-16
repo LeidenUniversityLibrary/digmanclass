@@ -1,6 +1,6 @@
 ---
 layout: manuscript
-route: diy-manuals
+route: books-for-professional-use
 
 title: Magic and spirits
 shelfmark: VCF 14

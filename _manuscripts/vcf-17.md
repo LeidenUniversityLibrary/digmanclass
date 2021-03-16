@@ -1,6 +1,6 @@
 ---
 layout: manuscript
-route: diy-manuals
+route: books-for-professional-use
 
 title: Secret symbols
 shelfmark: VCF 17

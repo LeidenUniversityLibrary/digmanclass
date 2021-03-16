@@ -1,6 +1,6 @@
 ---
 layout: manuscript
-route: diy-manuals
+route: books-for-professional-use
 
 title: The secret of secrets
 shelfmark: VCF 23

@@ -1,6 +1,6 @@
 ---
 layout: manuscript
-route: diy-manuals
+route: books-for-professional-use
 
 title: A medical pioneer
 shelfmark: VCF 16
