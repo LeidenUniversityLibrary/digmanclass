@@ -16,6 +16,8 @@ dmc:
 
   - title: "Routes"
     children:
+      - title: Books for Professional Use
+        url: /routes/books-for-professional-use/
       # - title: Dutch
       #   url: /routes/dutch/
       # - title: Classics
@@ -24,14 +26,12 @@ dmc:
       #   url: /routes/history/
       # - title: Books and Digital Media Studies
       #   url: /routes/bdms/
+      - title: Liberal Arts and Education
+        url: /routes/liberal-arts-education/
       - title: Religion and Devotion
         url: /routes/religion-devotion/
       # - title: Intellectual Culture
       #   url: /routes/intellectual-culture/
-      - title: Liberal Arts and Education
-        url: /routes/liberal-arts-education/
-      - title: DIY & Manuals
-        url: /routes/diy-manuals/
       # - title: Law
       #   url: /routes/law/
       # - title: Incunables
