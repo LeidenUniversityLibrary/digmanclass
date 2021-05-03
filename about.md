@@ -38,7 +38,7 @@ The digitised images are presented via [IIIF] from the
 [Digital Collections][dc] repository, and shown in the
 [Mirador image viewer][mirador].
 
-December 2020
+April 2021
 
 [si]: https://www.library.universiteitleiden.nl/special-collections/scaliger-institute
 [cds]: https://www.library.universiteitleiden.nl/about-us/centre-for-digital-scholarship
