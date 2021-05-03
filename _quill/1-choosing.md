@@ -10,7 +10,7 @@ glossary_links:
   - Damaged Parchment
   - Offcuts
   - Palimpsest
-  - Papeter
+  - Paper
   - Watermark
 ---
 
