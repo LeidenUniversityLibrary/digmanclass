@@ -29,7 +29,13 @@ classes: wide
     <header><h1>Related manuscripts</h1></header>
     <ol>
         {% for ms in site.data.most_sim[page.shelfmark] %}
-         <li><a href="{{ ms | downcase | replace: ' ', '-' | prepend: '/manuscripts/' | append: '/' | relative_url }}" target="_blank">{{ ms }}</a></li>{% endfor %}
+        {% assign found_ms = site.manuscripts | find: "shelfmark", ms %}
+        {% if found_ms %}
+        <li><a href="{{ found_ms.url }}" target="_blank">{{ ms }}</a></li>
+        {% else %}
+        <li>{{ ms }}</li>
+        {% endif %}
+        {% endfor %}
     </ol>
 </section>
 <section id="bibliography">
