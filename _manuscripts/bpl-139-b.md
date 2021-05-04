@@ -32,7 +32,7 @@ amongst other texts on logic, the *De syllogisms categoricis,* which was
 written by [Abbo of Fleury](https://en.wikipedia.org/wiki/Abbo_of_Fleury) (c. 945-1004)
 specifically for students of dialectic. The manuscript was copied by the
 Convent of Fleury-St. Benoit in France. Throughout the manuscript we can
-find many diagrams. Fol. <span data-fol="31r" class="fref">31r</span> contains an
+find many diagrams. Fol. <span data-fol="32r" class="fref">32r</span> contains an
 [anthropomorphic](https://en.wikipedia.org/wiki/Anthropomorphism)
 initial of a man that is being torn by two lions.
 
