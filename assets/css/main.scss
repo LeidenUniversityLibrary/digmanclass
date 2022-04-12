@@ -55,11 +55,21 @@
     vertical-align: middle;
 }
 
+#sect-viewer {
+    position: relative;
+}
+
 #viewer {
-    position: sticky;
-    top: 10px;
+    position: relative;
     border: solid black;
     height: 500px;
+}
+
+@media (min-height: 900px) {
+    #viewer {
+        position: sticky;
+        top: 10px;
+    }
 }
 nav.ms-title {
     display: flex !important;
