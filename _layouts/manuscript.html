@@ -110,14 +110,18 @@ classes: wide
             enabled: false,
         },
     });
+    var loadCheckRetries = 0;
     function checkManifestReceived() {
         const state = mir.store.getState();
         if (state.manifests["{{ this_ms.manifest }}"]) {
             console.debug("Manifest loaded.");
             uriIndex = createUriIndex(state.manifests["{{ this_ms.manifest }}"].json);
-        } else {
-            console.debug("Manifest is not available yet; waiting 300ms");
+        } else if (loadCheckRetries < 5) {
+            loadCheckRetries++;
+            console.debug(`Manifest is not available yet; waiting 300ms. Retry: ${loadCheckRetries}`);
             setTimeout(checkManifestReceived, 300);
+        } else {
+            console.warn("Manifest loading took too long. Not building the uriIndex.");
         }
     }
     checkManifestReceived();
