@@ -21,21 +21,23 @@ classes: wide
 <section id="questions">
     <header><h1>Questions</h1></header>
     <ol>
-        {% for q in page.questions %}<li>{{ site.data.questions[q] }}</li>{% endfor %}
+        {%- for q in page.questions %}
+        <li>{{ site.data.questions[q] }}</li>
+        {%- endfor %}
     </ol>
 </section>
 {% endif %}
 <section id="related">
     <header><h1>Related manuscripts</h1></header>
     <ol>
-        {% for ms in site.data.most_sim[page.shelfmark] %}
-        {% assign found_ms = site.manuscripts | find: "shelfmark", ms %}
-        {% if found_ms %}
+        {%- for ms in site.data.most_sim[page.shelfmark] %}
+        {%- assign found_ms = site.manuscripts | find: "shelfmark", ms %}
+        {%- if found_ms %}
         <li><a href="{{ found_ms.url }}" target="_blank">{{ ms }}</a></li>
-        {% else %}
+        {%- else %}
         <li>{{ ms }}</li>
-        {% endif %}
-        {% endfor %}
+        {%- endif %}
+        {%- endfor %}
     </ol>
 </section>
 <section id="bibliography">
