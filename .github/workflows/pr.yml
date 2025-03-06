@@ -5,6 +5,9 @@ on:
 
 jobs:
   jekyll:
+    strategy:
+      matrix:
+        ruby_version: ['3.3', '3.4']
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
@@ -12,7 +15,7 @@ jobs:
     # Use GitHub Actions' cache to shorten build times and decrease load on servers
     - uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.3'
+        ruby-version: ${{ matrix.ruby_version }}
         bundler-cache: true
 
     # Standard usage
