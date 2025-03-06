@@ -26,6 +26,12 @@ group :jekyll_plugins do
   gem "jekyll-target-blank"
 end
 
+# Required since Ruby >= 3.4.0 does not include some modules in the standard library
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "observer"
+
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
