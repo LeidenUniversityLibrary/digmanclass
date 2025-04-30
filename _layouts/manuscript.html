@@ -19,7 +19,7 @@ classes: wide
 </section>
 {% if page.questions %}
 <section id="questions">
-    <header><h1>Questions</h1></header>
+    <header><h2>Questions</h2></header>
     <ol>
         {%- for q in page.questions %}
         <li>{{ site.data.questions[q] }}</li>
@@ -28,7 +28,7 @@ classes: wide
 </section>
 {% endif %}
 <section id="related">
-    <header><h1>Related manuscripts</h1></header>
+    <header><h2>Related manuscripts</h2></header>
     <ol>
         {%- for ms in site.data.most_sim[page.shelfmark] %}
         {%- assign found_ms = site.manuscripts | find: "shelfmark", ms %}
@@ -41,7 +41,7 @@ classes: wide
     </ol>
 </section>
 <section id="bibliography">
-    <header><h1>Literature</h1></header>
+    <header><h2>Literature</h2></header>
     {% bibliography --cited %}
 </section>
 <script type="text/javascript">
