@@ -102,22 +102,16 @@ nav.ms-title {
     display: flex !important;
     justify-content: space-between;
 }
-nav.ms-title > h1 {
-    display: inline-block;
-    text-align: center;
+nav.ms-title > * {
+    align-content: center;
 }
-#prev {
-    /* align-content: start; */
+#prev, #next {
     font-size: 3em;
-    width: 100px;
-    display: inline-block;
+    line-height: normal;
 }
 
-#next {
-    text-align: end;
-    font-size: 3em;
-    width: 100px;
-    display: inline-block;
+h1 {
+    text-align: center;
 }
 
 #description {
