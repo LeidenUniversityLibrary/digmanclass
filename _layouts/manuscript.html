@@ -4,12 +4,14 @@ classes: wide
 ---
 {% assign this_route = site.routes | where:"identifier",page.route | first %}
 {% assign this_ms = site.data.handles | where:"signatuur",page.shelfmark | first %}
-<header class="route-title"><a href="{{ this_route.url | relative_url }}" rel="up">{{ this_route.title }}</a></header>
-<nav class="ms-title">
-    <div id="prev"><a href="{{ page.previous.url | relative_url }}" rel="prev" title="Previous manuscript">☜</a></div>
+<header class="route-title">
+    <nav class="ms-title" aria-label="Route">
+        <div id="prev"><a href="{{ page.previous.url | relative_url }}" rel="prev" title="Previous manuscript">☜</a></div>
+        <a href="{{ this_route.url | relative_url }}" rel="up">{{ this_route.title }}</a>
+        <div id="next"><a href="{{ page.next.url | relative_url }}" rel="next" title="Next manuscript">☞</a></div>
+    </nav>
     <h1>{{ page.title }}</h1>
-    <div id="next"><a href="{{ page.next.url | relative_url }}" rel="next" title="Next manuscript">☞</a></div>
-</nav>
+</header>
 <section id="sect-viewer">
     <div id="viewer"></div>
     <div id="ms-identification"><span class="shelfmark"><a href="{{ this_ms.handle }}" title="See {{ page.shelfmark }} in Digital Collections">{{ page.shelfmark }}</a></span> ({{ page.origin }}, {{ page.ms_date }}):
