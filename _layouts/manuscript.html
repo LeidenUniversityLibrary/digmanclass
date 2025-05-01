@@ -99,7 +99,8 @@ classes: wide
         },
         windows: [{
             id: 'known-window-id',
-            loadedManifest: '{{ this_ms.manifest }}',
+            manifestId: '{{ this_ms.manifest }}',
+            view: 'single',
         }],
         window: {
             allowClose: false,
@@ -112,6 +113,9 @@ classes: wide
         },
         workspaceControlPanel: {
             enabled: false,
+        },
+        osdConfig: {
+            crossOriginPolicy: 'Anonymous',
         },
     });
     var loadCheckRetries = 0;
