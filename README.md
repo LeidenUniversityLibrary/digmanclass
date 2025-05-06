@@ -26,6 +26,13 @@ To build the website once, so that it can be deployed, run:
 bundle exec jekyll build
 ```
 
+To build the website once, so that it can be deployed to the development
+environment, run:
+
+```sh
+bundle exec jekyll build --config _config.yml,_config.dev.yml
+```
+
 To continuously build the website on every change, run:
 
 ```sh
@@ -36,9 +43,12 @@ And open the locally served page: <http://localhost:4000/>.
 ## Deploy
 
 To deploy the built website, copy all the contents of the `_site` directory
-to the directory that is served as the root of [DigManClass].
+(or the `_site_dev` directory for a development build)
+to the directory that is served as the root of [DigManClass] (or 
+[DigManClass-d]).
 
 [DigManClass]: https://digmanclass.universiteitleiden.nl/
+[DigManClass-d]: https://digmanclass-d.universiteitleiden.nl/
 
 ## Contributing
 
