@@ -1,0 +1,2 @@
+url: "https://digmanclass-d.universiteitleiden.nl" # the base hostname & protocol for your site, e.g. http://example.com
+destination: ./_site_dev
